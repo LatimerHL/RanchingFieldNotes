@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：pear
 > 类别：水果
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 这是一种懂得反击的水果。
@@ -41,7 +41,7 @@
 > Deposit a prickle pear into a garden's depositor and you'll grow a large prickle pear tree of your     very own.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅玻璃荒漠
 

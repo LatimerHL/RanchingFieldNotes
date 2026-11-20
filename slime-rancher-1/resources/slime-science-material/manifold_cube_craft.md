@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：manifold_cube_craft
 > 类别：史莱姆科技材料
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 有那么一点万物大荟萃的意思
@@ -45,7 +45,7 @@
 > Deposit manifold cubes into the Lab's Refinery where it can then be used for crafting Slime Science gadgets.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **获取方式**：维克多的工作间，每 20 个故障报告兑换 1 个
 

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：lucky_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 哦，旺财！
@@ -59,7 +59,7 @@
 > A lucky slime isn't known to produce plorts of any kind. Leading slime scientists believe     this to be the result of the lucky slime not being a true slime variant. Rather, lucky slimes are believed to be just     an abnormal tabby slime: one whose color has faded as a result of ingesting so many coins. It is perhaps this very     change that also led to ceasing plort production.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：干涸岩礁、被苔岛、靛蓝采石场、古代遗迹、玻璃荒漠
 

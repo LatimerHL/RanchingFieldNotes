@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：hunter_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 谁管什么兔子，附近有没有鸡？
@@ -59,7 +59,7 @@
 >     Sometimes you feel like you just want to disappear for a while. But then about a day goes by and you realize that     not only did you miss being seen, but others missed seeing you too.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：被苔岛、玻璃荒漠（荒蛮群岛以剑齿大型形态出现）
 

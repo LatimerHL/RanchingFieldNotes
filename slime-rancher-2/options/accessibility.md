@@ -1,7 +1,7 @@
 # 辅助与晕动症（Accessibility）
 
 > 来源：游戏内本地化 Options 表（Options_en/zh + Shared Data，设置项名称/描述官中）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 > 提示：晕动症相关选项包括关闭视角晃动、视野畸变、屏幕晃动、真空枪摆动；玩家伤害倍率可调节整体难度。
 

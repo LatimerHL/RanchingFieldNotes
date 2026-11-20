@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）
 > 条目ID：sea（t.sea / m.intro.sea / m.desc.sea）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 史莱姆之海（The Slime Sea）

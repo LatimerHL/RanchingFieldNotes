@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）
 > 条目ID：conservatory（t.conservatory / m.intro.conservatory / m.desc.conservatory）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 温室（The Conservatory）

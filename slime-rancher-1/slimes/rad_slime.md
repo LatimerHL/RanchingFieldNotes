@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：rad_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 辐射太可人，夺命了无痕。
@@ -47,7 +47,7 @@
 > Given that raddies are basically mobile batteries, it’s no surprise that corporations value     rad plorts for their incredible energy-producing capabilities. Most rad plorts get turned into ‘plortonium’ and     everything from the latest holophone to a radwave microcook system runs on the stuff.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅靛蓝采石场（荒蛮群岛以剑齿大型形态出现）
 

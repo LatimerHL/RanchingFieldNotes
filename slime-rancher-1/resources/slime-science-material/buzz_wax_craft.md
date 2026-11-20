@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：buzz_wax_craft
 > 类别：史莱姆科技材料
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 要是喜欢蜜蜂腹部腺体的味道，拿来做熏香蜡烛也不错呢。
@@ -45,7 +45,7 @@
 > Deposit buzz wax into the Lab's Refinery where it can then be used for fabricating     Slime Science gadgets.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **获取方式**：蜂房采集，或史莱姆科技箱
 

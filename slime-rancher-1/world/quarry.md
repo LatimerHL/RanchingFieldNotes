@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 世界选项卡
 > 条目ID：quarry
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 采石计划破灭后留下的产物。
@@ -27,7 +27,7 @@
 >     The Indigo Quarry is a natural home for rock slimes and the more elusive rad slime, and its naturally mineral-rich soil     make it a great place to harvest most wild veggies.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **解锁方式**：需 1 把史莱姆钥匙；从干涸岩礁的洞穴进入（0.3.0 版本加入）
 

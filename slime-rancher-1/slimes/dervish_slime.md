@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：dervish_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 白天转转晚上旋旋。
@@ -55,7 +55,7 @@
 > Dervish plorts are a fantastic source of clean energy that helps give turbines and     generators an extra boost. They are in constant demand as curiously, there is a finite number of spins stored in 	every dervish plort.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅玻璃荒漠
 

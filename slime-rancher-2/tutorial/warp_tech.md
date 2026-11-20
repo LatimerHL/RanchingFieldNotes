@@ -2,7 +2,7 @@
 
 > 来源：游戏内教程（本地化文本 Pedia / PediaPage 表）
 > 条目ID：warp_tech（t.warp_tech / m.intro.warp_tech / m.instructions.warp_tech）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 传送科技（Warp Tech）

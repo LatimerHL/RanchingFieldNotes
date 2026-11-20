@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：gold_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 不发财，算白来。
@@ -47,7 +47,7 @@
 > Gold plorts have little practical use and are the most valuable of all plorts simply     because they are shiny and rare. Back on Earth, the elite love to adorn themselves in jewelry made of gold plorts,     far exceeding the value of any terrestrial precious metal. For this reason a rancher should never pass up the     chance to get a gold plort or two from a chance encounter with a gold slime.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：干涸岩礁、被苔岛、靛蓝采石场、古代遗迹、玻璃荒漠
 

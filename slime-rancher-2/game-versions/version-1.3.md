@@ -1,9 +1,9 @@
-# 版本 1.3.x 更新日志（Slime Rancher 2）
+# 版本 1.3.x 更新日志（二代）
 
 > 来源：
 > - 游戏内官方简中语料库 `C:/Users/latim/.openclaw/references/sr-textasset/sr2/`（**1.3.0** 本地化表，2026-09-23 由发明者提供的 1.3.0 MonoBehaviour 导出覆盖更新）
-> - 官网 news 英文原文：**《Slime Rancher 2 - Ranching in Style - Update 1.3.0 Notes》**（slug `slime-rancher-2-ranching-in-style-update-1-3-0-notes`，https://www.slimerancher.com/news/slime-rancher-2-ranching-in-style-update-1-3-0-notes/ ，官网发布 2026-09-22T17:06Z；经 `scripts/sr2-news/fetch-official-news.js` 从 Storyblok 接口取回，2026-09-23 本地化）
-> - 中文对照：萝卜头 B 站专栏译文 **cv53139436**《史莱姆牧场2》v1.3.0「牧场风尚」更新说明（https://www.bilibili.com/opus/1251072365034471425 ，发布 2026-09-23T01:24Z；经 `scripts/sr2-news/fetch-bili-article.js 53139436` 取回）——版本名与全部新专名与语料库官中一致，仅行文风格差异
+> - 官网更新公告：**Ranching in Style — 1.3.0 更新说明**（slug `slime-rancher-2-ranching-in-style-update-1-3-0-notes`，https://www.slimerancher.com/news/slime-rancher-2-ranching-in-style-update-1-3-0-notes/ ，官网发布 2026-09-22T17:06Z；经 `scripts/sr2-news/fetch-official-news.js` 从 Storyblok 接口取回，2026-09-23 本地化）
+> - 中文对照：萝卜头 B 站专栏译文 **cv53139436** 二代 v1.3.0「牧场风尚」更新说明（https://www.bilibili.com/opus/1251072365034471425 ，发布 2026-09-23T01:24Z；经 `scripts/sr2-news/fetch-bili-article.js 53139436` 取回）——版本名与全部新专名与语料库官中一致，仅行文风格差异
 > 素材状态：本文件正文＝**游戏内文本（语料库）＋官网公告全文＋B 站译文**三路核对；公告口径（更新标题、发布日期、官方定性、修复／已知问题）已补齐。
 > 版本名：1.3.0 采用发明者译名**「牧场风尚」**（官方英文标题 *Ranching in Style*）
 > 术语：以 `../../general/terminology.md` 官中为准
@@ -77,7 +77,7 @@
 ### 官方结语
 
 - 这次更新里有大量来自我们优秀社区的需求；感谢大家的所有反馈，希望它能让你那张好看的脸上露出大大的笑容
-- 更多《史莱姆牧场2》支持相关内容，请访问官方帮助中心；遇到新 BUG 建议先对照官方「已知问题」页面确认团队是否已知晓，未收录再提交工单
+- 更多二代支持相关内容，请访问官方帮助中心；遇到新 BUG 建议先对照官方「已知问题」页面确认团队是否已知晓，未收录再提交工单
 - 可游玩平台：Steam、Epic Games Store、Xbox Series X|S、PlayStation 5
 
 ### 语料库核对（2026-09-23）

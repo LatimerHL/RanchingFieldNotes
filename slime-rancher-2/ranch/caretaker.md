@@ -1,7 +1,7 @@
 # 看护员与看护员商店（Caretaker & Caretaker's Shop）
 
 > 来源：游戏内通讯站对话（本地化 CommStation 表，中英）+ fandom（NPC概况）+ 1.3.0客户端商品/查询数据、原生代码与发明者实机确认（商店）。
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 概况
 

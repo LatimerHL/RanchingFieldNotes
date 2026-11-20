@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：kookadoba
 > 类别：水果
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 你一定是疯了才会去收集这些东西。l.favored_by.kookadoba = 最爱吃它的是：
@@ -41,7 +41,7 @@
 > Kookadoba can only grow in the soils of The Wilds. A garden's replicator will reject it.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅荒蛮群岛（刷新位置每日变化）
 

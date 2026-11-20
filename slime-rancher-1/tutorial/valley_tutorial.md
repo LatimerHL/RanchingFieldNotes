@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场主任务
 > 条目ID：valley_tutorial
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 莫奇的新员工手册。
@@ -27,7 +27,7 @@
 >   - Energy boost stations: Refills all your energy.
 ## 补充资料（知识库关联）
 
-> 来源：本知识库其他条目与 Slime Rancher Wiki（fandom）
+> 来源：本知识库其他条目与 Fandom 社区 Wiki
 
 **关联资料**：迅捷峡谷（Nimble Valley）为 1.2.0 莫奇的财富更新引入；通过莫奇庄园的传送器进入（新手赛道与高级赛道两个传送器）。
 

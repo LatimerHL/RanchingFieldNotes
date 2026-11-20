@@ -1,6 +1,6 @@
-# 版本 1.3.x 更新日志（Slime Rancher 1）
+# 版本 1.3.x 更新日志（一代）
 
-> 来源：fandom 英文 wiki「Game Versions」及其子页（Version 1.3.0 / 1.3.0b-co1 / PS4 Version 1.04 / PS4 Version 1.05 / Version 1.3.1 / Version 1.3.2，原官方论坛公告已关闭）；中文对照：fandom 中文 wiki「游戏版本 (史莱姆牧场)」页及 LatimerRowe 的 v1.3.0 / v1.3.1 / v1.3.2 翻译博客；2026-08-19 拉取并本地化
+> 来源：fandom 英文 wiki「Game Versions」及其子页（Version 1.3.0 / 1.3.0b-co1 / PS4 Version 1.04 / PS4 Version 1.05 / Version 1.3.1 / Version 1.3.2，原官方论坛公告已关闭）；中文对照：fandom 中文 wiki「一代版本记录」页及 LatimerRowe 的 v1.3.0 / v1.3.1 / v1.3.2 翻译博客；2026-08-19 拉取并本地化
 > 版本名：采用 fandom 中文 wiki——自动化更新（The Automatic Update）、优化更新（The Optimized Update）、免费银河套装DLC&嘟嘟乐园2018（Galactic Bundle DLC & Wiggly Wonderland 2018）
 > 范围确认：1.3.x 共 3 个全平台正式版本（1.3.0、1.3.1、1.3.2）+ 5 个补丁（1.3.0b、1.3.1b、1.3.1c、1.3.2b、1.3.2c）；同一时期另有 1 个主机版 DLC 公告版本（1.3.0b-co1）与 2 个 PS4 专属补丁（1.04、1.05）；下一版为 1.4.0（维克多的实验更新）
 > 术语：以 terminology.md 官中为准（经游戏内官方简中语料核对）；LatimerRowe 旧译仅作语气与表达参考，和官中冲突处采用官中；存疑处已标注 ⚠️

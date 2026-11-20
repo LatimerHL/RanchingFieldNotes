@@ -1,8 +1,8 @@
 # 旋风史莱姆（Dervish Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：dervish_slime（t.dervish_slime / m.intro.dervish_slime / m.slimeology.dervish_slime / m.risks.dervish_slime / m.plortonomics.dervish_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 旋风史莱姆（Dervish Slime）

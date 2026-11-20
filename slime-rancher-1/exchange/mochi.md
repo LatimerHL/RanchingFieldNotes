@@ -2,7 +2,7 @@
 
 > 来源：游戏内交易所（Range Exchange）
 > NPC ID：mochi
-> 版本：Slime Rancher 1
+> 适用：一代
 
 > ⚠️ **轻微剧透警告**：莫奇的家庭往事与委托剧情，介意剧透请谨慎阅读。
 ## 特别问候
@@ -402,7 +402,7 @@
 > When you're ready, head to the valley and collect those quicksilver plorts. It... would be a big help.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **登场**：第 4 位交易所 NPC，最早第 5 天中午发来介绍邮件
 
@@ -413,7 +413,7 @@
 **备注**：莫奇庄园另有个人交易所（水银结晶交易）
 ## 补充资料（任务关联）
 
-> 来源：本知识库 tutorial/valley_tutorial.md 条目（内容基于 Slime Rancher Wiki（fandom）与知识库其他条目）
+> 来源：本知识库 tutorial/valley_tutorial.md 条目（内容基于 Fandom 社区 Wiki 与知识库其他条目）
 
 **关联资料**：迅捷峡谷（Nimble Valley）为 1.2.0 莫奇的财富更新引入；通过莫奇庄园的传送器进入（新手赛道与高级赛道两个传送器）。
 **迅捷峡谷解锁条件**：与莫奇完成至少一次交易所交易 + 解锁靛蓝采石场大门 + 购买幽暗山洞，并阅读莫奇的合伙邮件。

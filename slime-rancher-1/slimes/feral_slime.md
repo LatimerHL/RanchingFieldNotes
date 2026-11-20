@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：feral_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 肚子空空，脾气凶凶。
@@ -51,7 +51,7 @@
 > Feeding a feral slime not only calms it down, but it also produces plorts in the same 	manner as a largo. Though, there are certainly easier ways out there to acquire plorts!
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **本质**：敌对的大型史莱姆变体，会主动攻击玩家
 

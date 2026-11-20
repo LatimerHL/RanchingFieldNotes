@@ -1,8 +1,8 @@
 # 大型史莱姆（Largo Slimes）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 SR1 zh-Hans pedia 表）+ fandom（Slime Rancher Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 SR1 zh-Hans pedia 表）+ Fandom 社区 Wiki
 > 条目ID：largo_slime（t.largo_slime / m.intro.largo_slime / m.diet.largo_slime / m.favorite.largo_slime / m.slimeology.largo_slime / m.risks.largo_slime / m.plortonomics.largo_slime）
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 个儿越大，爱越多。
@@ -56,7 +56,7 @@
 
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom）「Largo Slimes」，补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki「Largo Slimes」，补充百科原文之外的机制与数据
 
 **产生方式**：纯种史莱姆吃下非自身种类的结晶后形成；一代中狂暴大型史莱姆会出现在致远牧星各危险区域，荒蛮群岛则有狂暴剑齿大型史莱姆
 

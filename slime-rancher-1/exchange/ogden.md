@@ -2,7 +2,7 @@
 
 > 来源：游戏内交易所（Range Exchange）
 > NPC ID：ogden
-> 版本：Slime Rancher 1
+> 适用：一代
 
 > ⚠️ **轻微剧透警告**：奥格登的往事与委托剧情，介意剧透请谨慎阅读。
 ## 特别问候
@@ -276,7 +276,7 @@
 > The Retreat is yours but I'll be happy to give you a block of my special spicy tofu for every 3 kookadobas you harvest from The Wilds. Be careful!
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **登场**：第 3 位交易所 NPC，最早第 4 天中午发来介绍邮件
 
@@ -287,6 +287,6 @@
 **备注**：奥格登的别墅另有个人交易所（库卡多巴换辣豆腐）
 ## 补充资料（任务关联）
 
-> 来源：本知识库 tutorial/wilds_tutorial.md 条目（内容基于 Slime Rancher Wiki（fandom）与知识库其他条目）
+> 来源：本知识库 tutorial/wilds_tutorial.md 条目（内容基于 Fandom 社区 Wiki 与知识库其他条目）
 
 **关联资料**：荒蛮群岛（The Wilds）为 1.1.0 奥格登的荒野更新引入；解锁需被苔岛大门 + 购买丰茂原野 + 与奥格登完成交易所交易；区域内为狂暴剑齿大型史莱姆，库卡多巴果每日刷新（详见 `../world/wilds.md`、`../slimes/saber_slime.md`）。

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：overgrowth
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 牧场专属的野外区域。
@@ -19,7 +19,7 @@
 > The Overgrowth is an expansion to the ranch that is covered in moss and tall grasses. The     thicket it creates allows for fruits and veggies to grow naturally and attracts the occasional wild chicken,     making it an ideal space for a rancher that wants to let their slimes roam more freely.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **价格**：1,795 新币
 

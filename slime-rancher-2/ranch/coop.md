@@ -1,8 +1,8 @@
 # 鸡圈（Coop）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Coop (Slime Rancher 2) 页面，价格）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Coop (二代) 页面，价格）
 > 条目ID：coop（t.coop / m.intro.coop / m.desc.coop）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 鸡圈（Coop）

@@ -1,7 +1,7 @@
 # 圣域主题（Sanctuary Themes）
 
 > 来源：游戏内《史莱姆百科》（本地化 Pedia 表主题条目，官中）+ fandom（Sanctuary Themes 页面，价格/机制）
-> 版本：Slime Rancher 2（1.2.0 圣域更新）
+> 适用：二代（1.2.0 圣域更新）
 
 ## 概况
 

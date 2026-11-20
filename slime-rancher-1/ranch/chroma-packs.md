@@ -1,9 +1,9 @@
 # 调色包（Chroma Packs）
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡（7Z奖励俱乐部 / DLC）
-> 版本：Slime Rancher 1
+> 适用：一代
 
-调色包是《史莱姆牧场》中的外观自定义道具，可通过 7Z 奖励俱乐部解锁（需先在 5 级获得调色站 Chroma Station），或随 DLC 捆绑包获得。调色包可在调色站应用于牧场房屋、真空枪与牧场科技。
+调色包是本作中的外观自定义道具，可通过 7Z 奖励俱乐部解锁（需先在 5 级获得调色站 Chroma Station），或随 DLC 捆绑包获得。调色包可在调色站应用于牧场房屋、真空枪与牧场科技。
 
 ## 实装调色包（27 个）
 
@@ -72,11 +72,11 @@
 > You can access chroma packs after unlocking the Chroma Station from the 7Zee Rewards Club.
 
 ## 说明
-- 部分第三方攻略提到的「Classic Chroma」属于《史莱姆牧场 2》，未收录。
+- 部分第三方攻略提到的「Classic Chroma」属于二代，未收录。
 - 游戏官方文本资产中不存在废案调色包条目。
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **调色站位置**：牧场小屋外、奥格登的别墅（第一座大屋外）、莫奇庄园（门廊）
 

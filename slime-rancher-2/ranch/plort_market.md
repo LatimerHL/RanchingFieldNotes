@@ -1,8 +1,8 @@
 # 结晶市场（Plort Market）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Plort Market (Slime Rancher 2) 页面，价格）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Plort Market (二代) 页面，价格）
 > 条目ID：plort_market（t.plort_market / m.intro.plort_market / m.desc.plort_market）
-> 版本：Slime Rancher 2
+> 适用：二代
 > 补充核验：1.3.0 本体代码与实机记录，2026-10-14；下方机制要点与资源页同步。
 
 ## 名称

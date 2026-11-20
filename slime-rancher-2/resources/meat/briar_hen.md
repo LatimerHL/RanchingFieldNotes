@@ -1,8 +1,8 @@
 # 母石楠鸡（Briar Hen）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：briar_hen（t.briar_hen / m.intro.briar_hen / m.desc.briar_hen / m.how_to_use.briar_hen）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 母石楠鸡（Briar Hen）

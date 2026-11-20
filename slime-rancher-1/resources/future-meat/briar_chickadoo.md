@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：briar_chickadoo
 > 类别：长大了才是肉
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 一种非主流的小鸡。
@@ -45,7 +45,7 @@
 > Keep briar chickadoos in a safe place and they'll eventually grow into a briar hen or roostro.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅被苔岛（巢穴附近）
 

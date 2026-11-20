@@ -1,7 +1,7 @@
 # 装饰（Decorations）
 
-> 来源：游戏内《史莱姆百科》（本地化 Pedia 表，名称/描述官中）+ fandom（Decorations (Slime Rancher 2) 页面，价格/配方/设计图获取）
-> 版本：Slime Rancher 2
+> 来源：游戏内《史莱姆百科》（本地化 Pedia 表，名称/描述官中）+ fandom（Decorations (二代) 页面，价格/配方/设计图获取）
+> 适用：二代
 
 ## 概况
 - 类别：装饰（Decorations）

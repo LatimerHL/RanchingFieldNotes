@@ -1,13 +1,13 @@
-# 游戏概况（Slime Rancher）
+# 游戏概况（一代）
 
-> 版本：Slime Rancher 1
+> 适用：一代
 > 整理：结合游戏解包文本资产与公开资料
 
 ## 基本信息
 
 | 项目 | 内容 |
 |------|------|
-| 游戏名称 | Slime Rancher（史莱姆牧场） |
+| 作品 | 一代 |
 | 开发商 / 发行商 | Monomi Park（美国独立工作室，2014 年成立于加州圣马特奥；品牌标识为树狐 Tree Fox，2026-08-18 发明者提供） |
 | 游戏类型 | 第一人称农场经营 / 生活模拟（开放世界） |
 | 游戏引擎 | Unity |
@@ -36,7 +36,7 @@
 
 ## 游戏简介
 
-《史莱姆牧场》是一款轻松治愈的第一人称农场经营游戏。玩家扮演**碧翠丝·乐步（Beatrix LeBeau）**，在距离地球 1000 光年之外的**致远牧星（Far, Far Range）**接管一座前任牧场主**霍布森·推格斯**留下的牧场，开始史莱姆牧场主生涯。
+本作是一款轻松治愈的第一人称农场经营游戏。玩家扮演**碧翠丝·乐步（Beatrix LeBeau）**，在距离地球 1000 光年之外的**致远牧星（Far, Far Range）**接管一座前任牧场主**霍布森·推格斯**留下的牧场，开始史莱姆牧场主生涯。
 
 游戏的核心循环简单而令人上瘾：**收集史莱姆 → 圈养喂食 → 收集结晶（Plort）→ 出售赚取新币 → 扩张牧场与装备**。在牧场经营之外，玩家可以探索致远牧星的各个区域，发现新的史莱姆与资源，并逐步揭开前任牧场主霍布森留下的故事。
 
@@ -106,7 +106,7 @@
 
 > 来源：Playdigious 官网游戏页（playdigious.com/games/slime-rancher/，2026-08-15 查证）+ iTunes/Google Play 商店页 + Playdigious 官方支持中心（helpshift）。移动端详细资料见 `mobile-support.md`。
 
-- **发行**：Monomi Park 开发，**Old Skull Games 负责移动端移植**，Playdigious 发行；2026-05-26 上线（官网新闻「Grab your vacpack: Slime Rancher is coming to mobile on May 26th!」，2026-03-26 公布）
+- **发行**：Monomi Park 开发，**Old Skull Games 负责移动端移植**，Playdigious 发行；2026-05-26 上线（官网移动版上线公告，2026-03-26 公布）
 - **平台**：Android（Google Play）/ iOS（App Store）；国区 App Store 未上架
 - **系统要求**：Android 10+（4GB 内存起）/ iOS 18+（A12 芯片起）；不支持 GPU/设备清单见 `mobile-support.md`
 - **价格**：8.99 美元/欧元（首发首周九折）；Google Play 区域定价

@@ -1,8 +1,8 @@
 # 喵喵史莱姆（Tabby Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：tabby_slime（t.tabby_slime / m.intro.tabby_slime / m.slimeology.tabby_slime / m.risks.tabby_slime / m.plortonomics.tabby_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 喵喵史莱姆（Tabby Slime）

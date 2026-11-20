@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）
 > 条目ID：gully（t.gully / m.intro.gully / m.desc.gully）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 陡峭岩沟（The Gully）

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆科技选项卡
 > 条目ID：warp_tech
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 尽量不要去想这东西的工作原理。
@@ -193,7 +193,7 @@
 > Allows you to remotely deposit resources into the refinery.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 ### 传送器（11 种）
 

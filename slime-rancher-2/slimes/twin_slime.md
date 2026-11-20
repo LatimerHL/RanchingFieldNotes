@@ -1,8 +1,8 @@
 # 双生史莱姆（Twin Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：portal_slime（t.portal_slime / m.intro.portal_slime / m.slimeology.portal_slime / m.risks.portal_slime / m.plortonomics.portal_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 双生史莱姆（Twin Slime）

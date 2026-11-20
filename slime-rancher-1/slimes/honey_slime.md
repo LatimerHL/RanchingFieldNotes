@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：honey_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 再甜，也不甜不过（刚产出的）蜂蜜（结晶）。
@@ -47,7 +47,7 @@
 > Honey plorts are highly prized by food manufacturers. Though the plorts are naturally     incredibly sweet, the discovery that they could be further refined into an even sweeter substance made their     demand soar. These refined honey plorts are said to score an unprecedented 867 on the Werner-Thompkins-Hong     sacchrino scale, just a few points shy of 'not fit for human consumption.'
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅被苔岛
 

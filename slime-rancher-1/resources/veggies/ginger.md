@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：ginger
 > 类别：蔬菜
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 只有极少的牧场主有幸看到此信息。
@@ -41,7 +41,7 @@
 > Said to be the holy grail of veggies, gilded ginger can very rarely be found growing in the Glass Desert. It is the only known food that a gold slime will eat, and the few that have seen it claim that doing so will greatly reward the lucky rancher.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅玻璃荒漠，每天只长出 2 个
 

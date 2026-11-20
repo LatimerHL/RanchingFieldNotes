@@ -1,7 +1,7 @@
 # 音频（Audio）
 
 > 来源：游戏内本地化 Options 表（Options_en/zh + Shared Data，设置项名称/描述官中）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ### 主音量（Main Volume）
 

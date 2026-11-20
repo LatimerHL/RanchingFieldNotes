@@ -1,7 +1,7 @@
 # 启动界面与警告（Boot Up）
 
 > 来源：游戏内本地化 BootUp 表（官中+原文）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 光敏警告（Photosensitivity Warning）
 
@@ -19,9 +19,9 @@
 
 ## 抢先体验声明（Early Access Notice）
 
-Slime Rancher 2 目前处于抢先体验阶段，某些平台或游戏功能可能无法正常工作，甚至出现崩溃或消失的现象。Monomi Park 一直致力于扩展 Slime Rancher 2 的世界，将在今后的更新中提供用来探索的新地点、尚未发现的宝藏和全新的史莱姆。
+启动声明发布时，二代仍处于抢先体验。
 
-> Slime Rancher 2 is currently in a pre-release state and some platform or game features may not work correctly, may crash, or may be missing. Monomi Park is hard at work on expanding the world of Slime Rancher 2, with new places to explore, treasures to find, and slimes to wrangle in future updates.
+> 启动声明摘要：二代当时仍处于抢先体验，部分平台或功能可能无法正常使用，也可能崩溃或缺失。Monomi Park 计划在后续更新中加入地点、宝藏和史莱姆。
 
 ## 按任意键开始（Press Any Button To Begin）
 

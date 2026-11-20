@@ -2,7 +2,7 @@
 
 > 来源：游戏内教程（本地化文本 Pedia / PediaPage 表）
 > 条目ID：feeding（t.feeding / m.intro.feeding / m.instructions.feeding）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 喂食（Feeding Slimes）

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：rock_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 史莱姆也可以很硬核。
@@ -47,7 +47,7 @@
 > Rock plorts are prized for being a key component in the production of 'blue metal,' an     amazing alloy that's stronger than titanium and lighter than plastic. Because of its amazing strength, blue metal     is often a key component in the hulls of light-speed capable starships, synthetic appendages, and protective     holophone cases.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：干涸岩礁、靛蓝采石场、古代遗迹、玻璃荒漠（荒蛮群岛以剑齿大型形态出现）
 

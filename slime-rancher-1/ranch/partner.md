@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：partner
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 炫酷。精致。更多好物，尽在7Z。
@@ -56,7 +56,7 @@
 | 28 | 金猫头鹰 3（Golden Owl III） | 史莱姆奖杯 4（Slime Trophy IV）、黄金传送器设计图（Gold Teleporter Blueprint） |
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **解锁方式**：游戏内时间第 7 天中午，收到 7Z 集团的星际邮件介绍奖励俱乐部（必须打开邮件才能参与）
 

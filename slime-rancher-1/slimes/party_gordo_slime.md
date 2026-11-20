@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：party_gordo_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 史莱姆可比你想象的帅气多了
@@ -55,7 +55,7 @@
 > There's nothing scientifically unique about the Party Gordo's pink plorts.     Wait, does this mean that the spirit of dance and celebration lives in your heart? Ohhhhh.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现方式**：派对周末（Party Weekend）活动期间每周出现一只（当地时间的周五、周六、周日），位置在致远牧星某处
 

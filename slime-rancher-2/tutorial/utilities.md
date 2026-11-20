@@ -2,7 +2,7 @@
 
 > 来源：游戏内教程（本地化文本 Pedia / PediaPage 表）
 > 条目ID：utilities（t.utilities / m.intro.utilities / m.instructions.utilities）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 工具（Utilities）

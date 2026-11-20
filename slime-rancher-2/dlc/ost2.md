@@ -1,14 +1,12 @@
-# Slime Rancher 2: Original Soundtrack, Vol. 2 - 原声大碟 Vol. 2
+# 原声大碟 Vol. 2（Original Soundtrack）
 
-> 版本：Slime Rancher 2
+> 适用：二代
 > 整理：Steam 商店 API + fandom wiki（2026-08 核对）
 
 ## 简介
-《Slime Rancher 2：原声大碟 Vol. 2》收录作曲家 Harry Mack 创作的 40 首曲目，总时长将近 4 小时。所有曲目均为无损格式。收录的是 EA 期间及之后新增的全部音乐（含天气主题乐章）；与 Vol. 1 合计近 7 小时。
+《原声大碟 Vol. 2》收录作曲家 Harry Mack 创作的 40 首曲目，总时长将近 4 小时。所有曲目均为无损格式。收录的是 EA 期间及之后新增的全部音乐（含天气主题乐章）；与 Vol. 1 合计近 7 小时。
 
-**原文参考：**
-
-> Return to Rainbow Island to revisit its beauty, excitement, and mysteries with the Slime Rancher 2: Original Soundtrack, Vol. 2! Enjoy nearly 4 hours of music across a total of 40 tracks by series composer Harry Mack, which contains all music released after early access began, including the very popular weather-themed music!
+> Steam 商店说明摘要：第二辑以彩虹岛为主题，收录 Harry Mack 创作的 40 首曲目，时长近 4 小时，覆盖抢先体验开启后发行的音乐及天气主题曲。
 
 ## 信息
 - 发行日期（商店页口径）：2025 年 9 月 23 日（与 1.0 正式版同日发布）
@@ -23,7 +21,7 @@
 - Epic（国区）: ¥31（2026-08 epicdb 复核确认；查询时点 -25% → ¥23.25）
 
 ## 描述
-重返彩虹岛，《Slime Rancher 2：原声大碟 Vol. 2》带您重温这片土地的绮丽、激情以及谜团。系列作曲家 Harry Mack 全新创作 40 首曲目，近 4 小时音乐内容，包含早期版本发布后全部新增旋律，更有广受好评的天气主题乐章！（加上《Slime Rancher 2：原声大碟》可共计享受近 7 小时妙不可言的听觉之旅！）所有曲目均提供高品质 .mp3 与 .flac 格式。
+重返彩虹岛，《原声大碟 Vol. 2》带您重温这片土地的绮丽、激情以及谜团。系列作曲家 Harry Mack 全新创作 40 首曲目，近 4 小时音乐内容，包含早期版本发布后全部新增旋律，更有广受好评的天气主题乐章！（加上《原声大碟》可共计享受近 7 小时妙不可言的听觉之旅！）所有曲目均提供高品质 .mp3 与 .flac 格式。
 
 ## 曲目列表
 

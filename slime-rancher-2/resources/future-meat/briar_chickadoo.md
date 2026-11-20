@@ -1,8 +1,8 @@
 # 石楠鸡仔儿（Briar Chick）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：briar_chickadoo（t.briar_chickadoo / m.intro.briar_chickadoo / m.desc.briar_chickadoo / m.how_to_use.briar_chickadoo）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 石楠鸡仔儿（Briar Chick）

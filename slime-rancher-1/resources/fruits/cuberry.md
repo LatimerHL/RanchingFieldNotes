@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：cuberry
 > 类别：水果
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 精巧又甜美，而且绝不会滚到桌子下面。
@@ -41,7 +41,7 @@
 > Deposit a cuberry into a garden's depositor and you'll grow a large cuberry tree of your very     own.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：干涸岩礁、被苔岛、古代遗迹、玻璃荒漠、荒蛮群岛（常见于多区域）
 

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：tabby_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 身上有条纹，背后有尾巴，晃啊晃啊就是它。
@@ -47,7 +47,7 @@
 > Tabby plorts are a key ingredient in a variety of 'performance enhancing' products that     grant the consumer a surge of the tabby slime's signature energy and exuberance. And while athletes the world     over take them to gain an edge, prolonged use often results in 'uncontrollable butt wiggles,' another (less     desirable) signature of the tabby slime.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：干涸岩礁、被苔岛、古代遗迹、玻璃荒漠（荒蛮群岛以剑齿大型形态出现）
 

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：lab
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 有了实验室，终于可以开始自己的无照史莱姆科学家生涯啦！
@@ -23,7 +23,7 @@
 >     It is recommended that only more experienced ranchers unlock the Lab, as Slime Science requires a great many     resources and lots of newbucks to fully master.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **价格**：10,000 新币
 

@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：carrot
 > 类别：蔬菜
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 除去真空枪，它就是牧场主的最佳伙伴了。
@@ -41,7 +41,7 @@
 > Deposit a carrot into a garden's depositor and you'll have a large carrot crop of your very own.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：丰茂原野、干涸岩礁、被苔岛、靛蓝采石场、古代遗迹、玻璃荒漠、奥格登的别墅、荒蛮群岛
 

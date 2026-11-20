@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：boom_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 小心，这些史莱姆是会爆-
@@ -47,7 +47,7 @@
 > Highly volatile boom plorts have all sorts of applications, including powering rocket     thrusters and demolitions. Military organizations value their highly destructive capabilities for ‘medical     technology and other research.’ Imagine that!
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：被苔岛、靛蓝采石场、玻璃荒漠（荒蛮群岛以剑齿大型形态出现）
 

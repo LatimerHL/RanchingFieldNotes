@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 世界选项卡
 > 条目ID：sea
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 大片的水与史莱姆合成物形成的海洋，不适合游泳，更不要说饮用了。
@@ -27,7 +27,7 @@
 >     But all theories aside, one fact remains very clear, most especially to ranchers: don't enter the Slime Sea!
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **区域数据**：建造点 11 个（小胡子岛 3 + 干涸岩礁-被苔岛桥 5 + 幽暗山洞-干涸岩礁海阶 3）；藏宝球 2 个（+神秘形象包 1 个 = 3）
 

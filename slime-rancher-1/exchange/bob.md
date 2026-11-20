@@ -2,7 +2,7 @@
 
 > 来源：游戏内交易所（Range Exchange）
 > NPC ID：bob
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 特别问候
 
@@ -50,7 +50,7 @@
 > CHICKKENN! askjasdljhsdfjkhasdlasdlkajs!!!!!
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **登场**：第 5 位交易所 NPC，最早第 6 天中午发来介绍邮件（最晚登场的交易所 NPC）
 

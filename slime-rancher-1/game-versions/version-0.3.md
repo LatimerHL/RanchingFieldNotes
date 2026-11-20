@@ -1,7 +1,7 @@
-# 版本 0.3.x 更新日志（Slime Rancher 1）
+# 版本 0.3.x 更新日志（一代）
 
 > 来源：fandom「Game Versions/Version 0.3.x」（原官方公告 forums.monomipark.com，论坛已关闭，此为 fandom 存档）；2026-08-18 拉取并本地化
-> 版本名：参考 fandom 中文 wiki「游戏版本 (史莱姆牧场)」
+> 版本名：参考 fandom 中文 wiki「一代版本记录」
 > 术语：以 terminology.md 官中为准；存疑处已标注 ⚠️
 
 ## v0.3.0：靛蓝采石场更新（2016-04-13）

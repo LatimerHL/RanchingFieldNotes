@@ -1,7 +1,7 @@
-# Slime Rancher: Original Soundtrack - 原声音乐集
+# 原声音乐集（Original Soundtrack）
 
 ## 简介
-《史莱姆牧场》原声音乐集包含作曲家 Harry Mack 数字重制、去除循环的 37 首曲目，全部以高品质 MP3 格式录制，并收录由 Chelsea Lee Greenwood 演唱的《1,000 Light Years Away》。
+本作原声音乐集包含作曲家 Harry Mack 数字重制、去除循环的 37 首曲目，全部以高品质 MP3 格式录制，并收录由 Chelsea Lee Greenwood 演唱的《1,000 Light Years Away》。
 
 ## 信息
 - 发行日期: 2017 年 8 月 1 日<br>
@@ -16,7 +16,7 @@
 - Epic（国区）: ¥31
 
 ## 描述
-《史莱姆牧场》原声音乐集包含由作曲家Harry Mack重新制作的37首曲目，全都由高品质MP3格式录制。
+本作原声音乐集包含由作曲家Harry Mack重新制作的37首曲目，全都由高品质MP3格式录制。
 
 其中包含Chelsea Lee Greenwood演唱的《1,000 Light Years Away》
 
@@ -107,7 +107,7 @@ https://store.steampowered.com/app/671160/Slime_Rancher_Original_Soundtrack/
 
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom：Slime Rancher: Original Soundtrack）
+> 来源：Fandom 社区 Wiki（Original Soundtrack）
 
 - **发行日期**：2017-08-01（Steam 商店页与 fandom 一致）
 - **作曲**：全部曲目由 Harry Mack 作曲，唯《1,000 Light Years Away》标注 Chelsea Lee Greenwood 为演唱者

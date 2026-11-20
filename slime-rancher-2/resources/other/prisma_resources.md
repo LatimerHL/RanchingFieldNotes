@@ -1,8 +1,8 @@
 # 不稳定资源（Unstable Resources）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：prisma_resources（t.prisma_resources / m.intro.prisma_resources / m.desc.prisma_resources / m.how_to_use.prisma_resources）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 不稳定资源（Unstable Resources）

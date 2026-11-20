@@ -1,8 +1,8 @@
 # 辉光史莱姆（Radiant Slimes）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：radiant_slime（t.radiant_slimes / m.intro.radiant_slimes / m.slimeology.radiant_slime / m.risks.radiant_slime / m.plortonomics.radiant_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 辉光史莱姆（Radiant Slimes）

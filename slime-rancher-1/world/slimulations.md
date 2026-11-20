@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 世界选项卡
 > 条目ID：slimulations_world
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 虚拟的要比现实的更好。

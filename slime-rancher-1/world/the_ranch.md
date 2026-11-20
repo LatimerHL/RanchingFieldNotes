@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 世界选项卡
 > 条目ID：the_ranch
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 异星异客，家的归属。
@@ -23,7 +23,7 @@
 >     Hobson's whereabouts are currently unknown.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **区域数据**：建造点 27 个；地块 8 个；藏宝球 2 个
 

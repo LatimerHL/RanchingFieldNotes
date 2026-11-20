@@ -1,7 +1,7 @@
 # 音乐播放器（Music Player）
 
 > 来源：游戏内本地化 Pedia 表（m.music.* 曲目名，官中）+ UI 表（b.music / b.toggle_media_play / b.stop / b.no_music_playing，官中）
-> 版本：Slime Rancher 2（1.3.0 新增）
+> 适用：二代（1.3.0 新增）
 
 ## 概况
 

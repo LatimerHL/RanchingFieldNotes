@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：ogden_retreat
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 逃离后可以蜗居的度假地。
@@ -19,7 +19,7 @@
 > Ogden built this little getaway as a place where he could take a break from his ranch and     collect his thoughts. But soon it led to an obsession as he discovered the nearby Wilds, and the tasty kookadoba 	fruit within.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **区域数据**：6 个地块；建造点 14 个；藏宝球 1 个；1.1.0 奥格登的荒野更新加入
 

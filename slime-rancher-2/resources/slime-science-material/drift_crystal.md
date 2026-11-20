@@ -1,8 +1,8 @@
 # 飘浮水晶（Drift Crystal）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：drift_crystal（t.drift_crystal / m.intro.drift_crystal / m.desc.drift_crystal / m.how_to_use.drift_crystal）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 飘浮水晶（Drift Crystal）

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）
 > 条目ID：bluffs（t.bluffs / m.intro.bluffs / m.desc.bluffs）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 落粉峭壁（Powderfall Bluffs）

@@ -1,8 +1,8 @@
 # 涡轮土豆（Turbo Tater）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：turbo_tater（t.turbo_tater / m.intro.turbo_tater / m.desc.turbo_tater / m.how_to_use.turbo_tater）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 涡轮土豆（Turbo Tater）

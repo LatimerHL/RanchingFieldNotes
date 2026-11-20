@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：beet
 > 类别：蔬菜
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 如果你靠得够近，似乎能听到心跳哦。
@@ -41,7 +41,7 @@
 > Deposit a heart beet into a garden's depositor and you'll have a large heart beet crop of your very own.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：干涸岩礁、靛蓝采石场（后者更常见）、古代遗迹、玻璃荒漠、荒蛮群岛
 

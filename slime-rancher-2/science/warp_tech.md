@@ -1,8 +1,8 @@
 # 传送科技（Warp Tech）
 
-> 来源：游戏内《史莱姆百科》史莱姆科技选项卡（本地化 Pedia/PediaPage 表，名称/简介/内容官中）+ fandom（Slime Science (Slime Rancher 2) 等页面，扩充）
+> 来源：游戏内《史莱姆百科》史莱姆科技选项卡（本地化 Pedia/PediaPage 表，名称/简介/内容官中）+ fandom（Slime Science (二代) 等页面，扩充）
 > 条目ID：t.warp_tech / m.intro.warp_tech
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 传送科技（Warp Tech）

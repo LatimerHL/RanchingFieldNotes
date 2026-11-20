@@ -1,7 +1,7 @@
 # 成就（Achievements）
 
-> 来源：游戏内成就列表（achieve.txt）+ Slime Rancher Wiki（fandom）
-> 版本：Slime Rancher 1
+> 来源：游戏内成就列表（achieve.txt）+ Fandom 社区 Wiki
+> 适用：一代
 
 共 57 个成就。成就可在暂停菜单的「成就」选项卡查看；所有成就按难度分为铜/银/金三档，不影响游戏玩法。
 
@@ -68,7 +68,7 @@
 > ⚠️ **轻微剧透警告**：含通关/结局相关成就，介意剧透请谨慎阅读。
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 - 共 57 个成就，按难度分为**铜（Bronze）/ 银（Silver）/ 金（Gold）**三档
 - 成就入口：暂停菜单 → 成就选项卡（PC 按 ESC，Xbox 按 Select，PS4 按 Options）

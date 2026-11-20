@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）
 > 条目ID：den（t.den / m.intro.den / m.desc.den）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 洞窟（The Den）

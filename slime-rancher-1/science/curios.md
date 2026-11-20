@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆科技选项卡
 > 条目ID：curios
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 谁说不可以？
@@ -151,7 +151,7 @@
 > Install this strange device in the Ancient Ruins to capture wandering echoes over time.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 ### 风格皮肤（Fashion Pod）制造材料（fandom）
 

@@ -1,8 +1,8 @@
 # 巨型史莱姆（Gordo Slimes）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：gordo_slime（t.gordo_slime / m.intro.gordo_slime / m.slimeology.gordo_slime / m.risks.gordo_slime / m.plortonomics.gordo_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 巨型史莱姆（Gordo Slimes）

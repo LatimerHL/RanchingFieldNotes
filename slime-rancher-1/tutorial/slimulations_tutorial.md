@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场主任务
 > 条目ID：slimulations_tutorial
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 适当的测试程序。
@@ -35,7 +35,7 @@ _亻尔女子_又鸟咦？
 >   _hallOO_cHickeN?
 ## 补充资料（知识库关联）
 
-> 来源：本知识库其他条目与 Slime Rancher Wiki（fandom）
+> 来源：本知识库其他条目与 Fandom 社区 Wiki
 
 **关联资料**：史莱模（The Slimeulation）为 1.4.0 维克多的实验更新引入；通过**维克多的工作间**进入。
 

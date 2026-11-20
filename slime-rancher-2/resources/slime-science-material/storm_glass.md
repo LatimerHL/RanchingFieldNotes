@@ -1,8 +1,8 @@
 # 风暴玻璃（Storm Glass）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：storm_glass（t.storm_glass / m.intro.storm_glass / m.desc.storm_glass / m.how_to_use.storm_glass）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 风暴玻璃（Storm Glass）

@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：onion
 > 类别：蔬菜
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 普通洋葱闻了会流泪，怪洋葱闻了会怎样？
@@ -41,7 +41,7 @@
 > Deposit an odd onion into a garden's depositor and strangely, carrots will begin to grow. However, 	there is a good chance you'll get some odd onions in the crop as well.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅靛蓝采石场
 

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆科技选项卡
 > 条目ID：decorations
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 一流的牧场主，都很时尚有型。
@@ -431,7 +431,7 @@
 > Some say these rocks get their energy from the quicksilver slimes that race through the valley.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 ### 史莱姆灯（11 种）制造材料（fandom）
 

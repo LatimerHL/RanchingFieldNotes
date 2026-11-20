@@ -2,7 +2,7 @@
 
 > 来源：游戏内教程（本地化文本 Pedia / PediaPage 表）
 > 条目ID：plorts（t.plorts / m.intro.plorts / m.instructions.plorts）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 结晶与结晶市场（Plorts and the Plort Market）

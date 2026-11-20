@@ -1,7 +1,7 @@
 # 真空枪风格（Vac Styles）
 
 > 来源：游戏内本地化 Pedia 表（m.palette.name.* / m.palette.desc.* / t.palette.* / m.palette.vac_*，官中）
-> 版本：Slime Rancher 2（1.3.0 新增）
+> 适用：二代（1.3.0 新增）
 
 ## 概况
 

@@ -2,7 +2,7 @@
 
 > 来源：游戏内教程（本地化文本 Pedia / PediaPage 表）
 > 条目ID：fabricator（t.fabricator / m.intro.fabricator / m.instructions.fabricator）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 制造器（Fabricator）

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：pink_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 科研结果表明，它们的颜色代表着欢悦哦。
@@ -47,7 +47,7 @@
 > Pink Plorts are an excellent 'multipurpose generic substance' used to manufacture 	everything from food products to household cleaners. All over earth, people are eating burgers, sweetening their 	coffees or scrubbing their floors with pink plort products. That's some serious versatility!
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：干涸岩礁、被苔岛、靛蓝采石场、古代遗迹、玻璃荒漠（几乎除牧场与迅捷峡谷外的任何地点，昼夜皆可出现；荒蛮群岛仅以剑齿大型形态出现）
 

@@ -1,7 +1,7 @@
 # 游戏模式（Game Modes）
 
-> 来源：Slime Rancher Wiki（fandom）+ 游戏内文本资产
-> 版本：Slime Rancher 1
+> 来源：Fandom 社区 Wiki + 游戏内文本资产
+> 适用：一代
 
 游戏共有 **3 种游戏模式**，在新建存档时选择；选定后**无法更改**（切换模式需另建新档）。
 
@@ -91,7 +91,7 @@
 
 ## Iron Rancher 模式（废案）
 
-**Iron Rancher Mode** 是原计划随 **1.4.0 更新**引入的挑战模式，目标是在标准玩法之上增加挑战性；最终被搁置——开发者 Nick Popovich 选择了更令人兴奋、更贴合《史莱姆牧场》风格的内容方向（fandom Unused Features 页，引用自 Nick 的推文）。
+**Iron Rancher Mode** 是原计划随 **1.4.0 更新**引入的挑战模式，目标是在标准玩法之上增加挑战性；最终被搁置——开发者 Nick Popovich 选择了更令人兴奋、更贴合本作风格的内容方向（fandom Unused Features 页，引用自 Nick 的推文）。
 
 根据当时已从开发路线图移除的描述，该模式的构想为：
 

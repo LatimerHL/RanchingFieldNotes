@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：mochi_manor
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 可以说是致远牧星上最最最赞的地方了。
@@ -23,7 +23,7 @@
 > 	[ERROR: THIS SLIMEPEDIA ENTRY HAS BEEN ALTERED BY AN EXTERNAL SOURCE]
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **区域数据**：5 个地块；建造点 14 个；1.2.0 莫奇的财富更新加入
 

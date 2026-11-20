@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 世界选项卡
 > 条目ID：ruins
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 遗失的一切终将找回，为的只是再次消失在时间之中。
@@ -27,7 +27,7 @@
 > 	Only one thing is certain in the Ancient Ruins: within its deepest chambers lies its greatest secret.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **解锁方式**：需 1 把史莱姆钥匙 + 激活古代遗迹庭院 6 座结晶雕像（岩石/喵喵/荧光/蜂蜜/炸弹/辐射结晶各 1，射入对应雕像）打开大型史莱姆大门；遗迹入口另有一尊装饰性粉红史莱姆雕像（顶端叠有结晶雕像）
 

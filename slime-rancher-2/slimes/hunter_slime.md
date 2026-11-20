@@ -1,8 +1,8 @@
 # 猎猫史莱姆（Hunter Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：hunter_slime（t.hunter_slime / m.intro.hunter_slime / m.slimeology.hunter_slime / m.risks.hunter_slime / m.plortonomics.hunter_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 猎猫史莱姆（Hunter Slime）

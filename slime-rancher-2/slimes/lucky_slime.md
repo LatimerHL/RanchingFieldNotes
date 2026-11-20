@@ -1,8 +1,8 @@
 # 招财史莱姆（Lucky Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：lucky_slime（t.lucky_slime / m.intro.lucky_slime / m.slimeology.lucky_slime / m.risks.lucky_slime / m.plortonomics.lucky_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 招财史莱姆（Lucky Slime）

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：quicksilver_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 来去如风银光闪闪的静电史莱姆。
@@ -55,7 +55,7 @@
 > Mochi sells quicksilver plorts off-market and little is known about her buyers or     their motives.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅迅捷峡谷
 

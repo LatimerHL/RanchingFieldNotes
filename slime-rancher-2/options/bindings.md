@@ -1,7 +1,7 @@
 # 键位绑定（Key Bindings）
 
 > 来源：游戏内本地化 Options 表（Options_en/zh + Shared Data，设置项名称/描述官中）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 > 提示：可在设置中重绑键鼠与控制器按键；重绑时按住目标键即可。默认键位显示文本见教程章（m.instructions.basics_* 等）。
 

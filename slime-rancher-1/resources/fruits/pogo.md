@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：pogo
 > 类别：水果
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 致远牧星最常见，据说也是最好吃的水果。
@@ -41,7 +41,7 @@
 > Deposit a pogofruit into a garden's depositor and you'll grow a large pogofruit tree of your very     own.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：丰茂原野、干涸岩礁、被苔岛、靛蓝采石场、古代遗迹、玻璃荒漠、奥格登的别墅、荒蛮群岛
 

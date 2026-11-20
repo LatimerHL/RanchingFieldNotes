@@ -1,4 +1,4 @@
-# 版本 1.2.x 更新日志（Slime Rancher 2 · 抢先体验）
+# 版本 1.2.x 更新日志（二代 · 抢先体验）
 
 > 来源：
 > - 官网 news 英文原文：**Patch 1.2.0**《Radiant Slime Sanctuary Update》（slug `slime-rancher-2-radiant-slime-sanctuary-update-1-2-0-notes`，https://www.slimerancher.com/news/slime-rancher-2-radiant-slime-sanctuary-update-1-2-0-notes/ ，官网发布 2026-04-16T17:10Z）；**Patch 1.2.2**（https://www.slimerancher.com/news/slime-rancher-2-patch-1-2-2-notes/ ，官网页面发布 2026-05-18T21:00Z；实际公告时间以 Steam 官方公告 2026-05-11T17:21Z 为准，链接 https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502822026 ）

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Weather 页面，效果）
 > 条目ID：slime_rain（t.slime_rain / m.intro.slime_rain / m.desc.slime_rain）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 史莱姆之雨（Slimefall）

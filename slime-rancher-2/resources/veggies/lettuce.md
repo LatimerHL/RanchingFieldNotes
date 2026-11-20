@@ -1,8 +1,8 @@
 # 水甘蓝（Water Lettuce）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：lettuce（t.lettuce / m.intro.lettuce / m.desc.lettuce / m.how_to_use.lettuce）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 水甘蓝（Water Lettuce）

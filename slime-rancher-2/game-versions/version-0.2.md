@@ -1,13 +1,13 @@
-# 版本 0.2.x 更新日志（Slime Rancher 2）
+# 版本 0.2.x 更新日志（二代）
 
-> 来源：slimerancher.com 官网 news 三篇文章——《Slime Rancher 2 - Song of the Sabers - Patch 0.2.0 Notes》（https://www.slimerancher.com/news/Slime-Rancher-2-Song-Sabers-patch-0-2-0-notes/ ，官网发布 2023-02-16 19:29 UTC，即北京时间 2023-02-17）、《Slime Rancher 2 - Patch 0.2.1 Notes》（https://www.slimerancher.com/news/slime-rancher-2-slime-rancher-2-patch-0-2-1-notes/ ，2023-03-27 23:48 UTC，即北京时间 2023-03-28）、《Slime Rancher 2 - Patch 0.2.2 Notes》（https://www.slimerancher.com/news/slime-rancher-2-patch-0-2-2-notes/ ，2023-04-05 17:43 UTC，即北京时间 2023-04-06）；中文对照：B 站专栏 cv21873950（0.2.0 剑齿之歌）、cv22701899（0.2.1）、cv22914800（0.2.2），均为萝卜头；2026-09-22 拉取并校订
+> 来源：slimerancher.com 官网 news 三篇文章——《二代 - Song of the Sabers - Patch 0.2.0 Notes》（https://www.slimerancher.com/news/Slime-Rancher-2-Song-Sabers-patch-0-2-0-notes/ ，官网发布 2023-02-16 19:29 UTC，即北京时间 2023-02-17）、《二代 - Patch 0.2.1 Notes》（https://www.slimerancher.com/news/slime-rancher-2-slime-rancher-2-patch-0-2-1-notes/ ，2023-03-27 23:48 UTC，即北京时间 2023-03-28）、《二代 - Patch 0.2.2 Notes》（https://www.slimerancher.com/news/slime-rancher-2-patch-0-2-2-notes/ ，2023-04-05 17:43 UTC，即北京时间 2023-04-06）；中文对照：B 站专栏 cv21873950（0.2.0 剑齿之歌）、cv22701899（0.2.1）、cv22914800（0.2.2），均为萝卜头；2026-09-22 拉取并校订
 > 版本名：0.2.0 = 「剑齿之歌（Song of the Sabers）」（`../overview.md` 版本表中记作「剑齿史莱姆更新（落粉峭壁）」）；0.2.1、0.2.2 为无名补丁，标题即「补丁 0.2.1 / 0.2.2 说明」。**二代各版本的官方中文名以萝卜头 B 站专栏译名为准（2026-09-22 发明者定）**
-> 范围确认：0.2.x 共收 3 个版本；0.2.0 是《史莱姆牧场2》抢先体验阶段的第一个大型内容更新
+> 范围确认：0.2.x 共收 3 个版本；0.2.0 是二代抢先体验阶段的第一个大型内容更新
 > 术语：以 `../../general/terminology.md` 官中为准；与 B 站译文冲突处采用官中并在文内注明，存疑处标 ⚠️
 
 ## v0.2.0：剑齿之歌（Song of the Sabers）（2023-02-16，官方 PST；北京时间 2023-02-17）
 
-> 官方定性：《史莱姆牧场2》的第一个大型内容更新——前往落粉峭壁展开新的冒险。（原文引言：Embark on a new adventure in Powderfall Bluffs!）
+> 官方定性：二代的第一个大型内容更新——前往落粉峭壁展开新的冒险。（原文引言：Embark on a new adventure in Powderfall Bluffs!）
 
 **主要更新内容**：
 - 探索新区域：落粉峭壁——一座从史莱姆之海中神秘浮现的史前冰冻岛屿；这是系列此前从未有过的冰冷区域，但得先找到它才能享受这座恒冬乐园。官方提示：入口位于灰烬山谷的某处……
@@ -93,8 +93,8 @@
 - 黄金安康雕像的新币花费不正确
 
 **跨越冰冻地平线（后续展望）**：
-- 剑齿之歌是《史莱姆牧场2》的第一个主要内容更新，意在加深玩家对史莱姆牧场的了解与喜爱，并带来一些惊喜
-- 在此次更新之后，Monomi Park 将在史莱姆牧场的核心活动与游戏系统之上开发新功能，让玩家以全新的方式体验彩虹岛
+- 剑齿之歌是二代的第一个主要内容更新，意在加深玩家对本作的了解与喜爱，并带来一些惊喜
+- 在此次更新之后，Monomi Park 将在本作的核心活动与游戏系统之上开发新功能，让玩家以全新的方式体验彩虹岛
 - 再往后，碧翠丝的冒险最终将把她带入巨大而神秘的灰色迷宫（Grey Labyrinth）——它挡住了她穿越岛屿前往彼方的去路；迷宫的目的与历史仍然未知，但解开彩虹岛秘密的钥匙显然就在它的墙外
 - 关于抢先体验开发期间的安排见官方 FAQ；支持问题请前往官方帮助中心
 

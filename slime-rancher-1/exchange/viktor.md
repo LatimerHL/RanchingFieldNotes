@@ -2,7 +2,7 @@
 
 > 来源：游戏内交易所（Range Exchange）
 > NPC ID：viktor
-> 版本：Slime Rancher 1
+> 适用：一代
 
 > ⚠️ **轻微剧透警告**：维克多委托剧情线（史莱模结局相关），介意剧透请谨慎阅读。
 ## 特别问候
@@ -846,7 +846,7 @@
 > I look forward to seeing what you do with it, whatever that may be.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **登场**：第 2 位交易所 NPC，最早第 3 天中午发来介绍邮件
 
@@ -855,7 +855,7 @@
 **关联**：完成委托并收到邀请邮件后可解锁维克多的工作间（史莱模入口）
 ## 补充资料（任务关联）
 
-> 来源：本知识库 tutorial/slimulations_tutorial.md 条目（内容基于 Slime Rancher Wiki（fandom）与知识库其他条目）
+> 来源：本知识库 tutorial/slimulations_tutorial.md 条目（内容基于 Fandom 社区 Wiki 与知识库其他条目）
 
 **关联资料**：史莱模（The Slimeulation）为 1.4.0 维克多的实验更新引入；通过**维克多的工作间**进入。
 **维克多的工作间解锁条件**：传送器位于实验室的谷仓内（初始未激活）——需解锁古代遗迹大门 + 购买实验室 + 拥有藏宝球破解器 II，再与维克多完成一次交易所交易（交易必须最后做），随后收到合伙邮件激活传送器。

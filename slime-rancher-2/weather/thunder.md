@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Weather 页面，效果）
 > 条目ID：thunder（t.thunder / m.intro.thunder / m.desc.thunder）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 雷暴（Thunderstorm）

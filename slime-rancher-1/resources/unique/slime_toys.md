@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：slime_toys
 > 类别：特殊
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 顽童之心永不灭。
@@ -184,7 +184,7 @@
 > Reduces agitation of nearby slimes, especially slimes dressed with a Scuba Fashion Pod.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **机制**：玩具不可被真空枪吸取；降低附近史莱姆的自然烦躁度
 

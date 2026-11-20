@@ -1,8 +1,8 @@
 # 梦幻泡泡（Dream Bubble）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：dream_bubble_craft（t.dream_bubble_craft / m.intro.dream_bubble_craft / m.desc.dream_bubble_craft / m.how_to_use.dream_bubble_craft）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 梦幻泡泡（Dream Bubble）

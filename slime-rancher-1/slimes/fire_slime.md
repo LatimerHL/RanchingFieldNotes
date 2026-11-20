@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：fire_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 像一团营地篝火的史莱姆。
@@ -55,7 +55,7 @@
 > 	A rancher won't get rich selling fire plorts, and certainly managing them can be a dangerous endeavour, but they 	should know that the sale of each helps those in need. Now and far into the future, the little noble actions of 	every individual help us move forward as a people. That much will never change.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：玻璃荒漠（主要于太阳异常期间遇到）
 

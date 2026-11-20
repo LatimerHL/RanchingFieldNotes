@@ -1,7 +1,7 @@
 # 限时活动（Events）
 
-> 来源：Slime Rancher Wiki（fandom：Party Weekend / Wiggly Wonderland）+ 游戏内文本
-> 版本：Slime Rancher 1
+> 来源：Fandom 社区 Wiki（Party Weekend / Wiggly Wonderland）+ 游戏内文本
+> 适用：一代
 
 ## 派对周末（Party Weekend）
 
