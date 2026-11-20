@@ -77,7 +77,7 @@
 
 - **身份**：一代主角牧场的前任主人（一代角色，2 代未直接出场）
 - **简介**：2 代中仅以间接形式出现：琪琪提到迷宫与玻璃荒漠的关联，结局出现家族合影影像。
-- **关联**：`gigi/story.md`、一代档案 `../slime-rancher-1/npc.md`
+- **关联**：`gigi/story.md`、一代档案 `../game-1/npc.md`
 - > ⚠️ **【剧透】**：2 代揭示他是**琪琪的祖父**；"超越时空的传送门"的建造者（玻璃荒漠），琪琪用它穿越到现代时间线；结局家族合影（霍布森、索拉与幼年琪琪的母亲）中首次亮相。
 
 ---
@@ -86,4 +86,4 @@
 
 - 通讯站全部对话与赠品：`ranch/comm-station.md`
 - 看护员商店：`ranch/caretaker.md`　琪琪专题：`gigi/`（story / projector-dialogues / research-drones / exchange）
-- 一代角色：`../slime-rancher-1/npc.md`（霍布森、凯西、7Z 集团等）
+- 一代角色：`../game-1/npc.md`（霍布森、凯西、7Z 集团等）

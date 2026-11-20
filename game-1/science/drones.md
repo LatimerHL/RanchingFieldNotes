@@ -135,7 +135,7 @@
 
 > 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
-**造型**：小蜜蜂形（bee drones，Fandom 社区 Wiki 将其与一代的蜜蜂形无人机对照）；2 代量子无人机同为蜜蜂形，调研无人机为萤火虫形（见 `../../slime-rancher-2/gigi/research-drones.md`）
+**造型**：小蜜蜂形（bee drones，Fandom 社区 Wiki 将其与一代的蜜蜂形无人机对照）；2 代量子无人机同为蜜蜂形，调研无人机为萤火虫形（见 `../../game-2/gigi/research-drones.md`）
 
 ### 制造材料与机制（fandom）
 

@@ -87,7 +87,7 @@
 
 ### 9 个保底刷新点（guaranteed spots，≠复活机制）
 - **机制**：除全图低概率随机刷新（shuffle bags 系统）外，有 **9 个固定保底刷新点**，分布（fandom 精确版）：**彩虹原野 1、星光滨岸 2、灰烬山谷 2、落粉峭壁 1、灰色迷宫·Impossible Sky 3**（后 3 个来自解锁圣域的看护机器人 Caretaker Robots）；灰色迷宫 Nullifier/暗影结晶门房间还会**反复**生成辉光
-- **位置图（本地，有人问保底点就发）**：`game-kb/slime-rancher/slime-rancher-2/radiant-locations/radiant-1.jpg` ~ `radiant-9.jpg`（9 张，来自 thegameswatch 指南位置截图）
+- **位置图（本地，有人问保底点就发）**：`game-2/radiant-locations/radiant-1.jpg` ~ `radiant-9.jpg`（9 张，来自 thegameswatch 指南位置截图）
 
 ### 复活与找回机制（圣域失物招领处，2026-08-17 查证）
 - **丢失/死亡的辉光史莱姆可以在圣域（The Sanctuary）的「失物招领处」（Lost and Found）找回**，并恢复为原始基础形态（fandom The Sanctuary 页 + Reddit 实测帖）；辉光大型也可还原基础形态

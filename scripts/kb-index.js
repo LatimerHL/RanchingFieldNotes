@@ -56,7 +56,7 @@ const lines = [
 ];
 
 addDirectory(lines, "general", "## 通用资料");
-addDirectory(lines, "slime-rancher-1", "## 1代");
-addDirectory(lines, "slime-rancher-2", "## 2代");
+addDirectory(lines, "game-1", "## 1代");
+addDirectory(lines, "game-2", "## 2代");
 
 writeFileSync(join(root, "_INDEX.md"), lines.join("\n"), "utf8");
