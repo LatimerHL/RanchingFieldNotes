@@ -23,14 +23,14 @@
 - 一代的主要陆地区域：**干涸岩礁（Dry Reef）**、**被苔岛（Moss Blanket）**、**靛蓝采石场（Indigo Quarry）**、**古代遗迹（Ancient Ruins）**、**玻璃荒漠（Glass Desert）**，以及两位 NPC 的私人领地**荒蛮群岛（The Wilds）**（奥格登）与**迅捷峡谷（Nimble Valley）**（莫奇）；牧场本家坐落于干涸岩礁中央。
 - 环境整体**干旱多风**，被苔岛因地形困住海雾而独成丛林气候；靛蓝采石场因稀有矿脉呈深紫色；玻璃荒漠则是"某场毁灭性太阳作用"后沙石熔成玻璃的极端地带。
 - 星球上遍布**古代遗迹与史莱姆雕像**，说明在人类牧场主到来之前存在过更古老的文明（见 §3）。
-- 关联文件：`slime-rancher-1/world/`（各区域）、`slime-rancher-1/overview.md`
+- 关联文件：`game-1/world/`（各区域）、`game-1/overview.md`
 
 ### 1.2 史莱姆之海（The Slime Sea）
 
 - 覆盖致远牧星表面绝大部分的**水与史莱姆的混合物**，据信是**史莱姆最早的原始生命之源**，其真正用途连最顶尖的史莱姆科学家也搞不清楚。
 - 特性：不可饮用、不可灌溉、不可游泳——任何东西入海都会迅速沉底；但**史莱姆掉入海中会迅速消失，又很快在陆地重新出现**，许多科学家认为史莱姆把它当传送手段使用。
 - 对牧场主的唯一忠告：**不要进入史莱姆之海！**
-- 关联文件：`slime-rancher-1/world/sea.md`、`slime-rancher-2/world/sea.md`
+- 关联文件：`game-1/world/sea.md`、`game-2/world/sea.md`
 
 ### 1.3 彩虹岛（Rainbow Island）
 
@@ -38,7 +38,7 @@
 - 特色：色彩"跃动变幻、仿若梦境"，**棱镜波（Prisma Waves）**影响整座岛屿——植被变色、天气异常、资源不稳定。
 - 主要区域：**彩虹原野（Rainbow Fields）**、**星光滨岸（Starlight Strand）**（被珊瑚色/薰衣草色从中线一分为二，暗示非自然成因）、**灰烬山谷（Ember Valley）**（地热活跃、暴露巨大化石，火山活动疑似"近期"才出现）、**落粉峭壁（Powderfall Bluffs）**（被冰壳包裹沉入海中的史前"雪花球"，保存着胶罗纪生态）、**灰色迷宫（The Grey Labyrinth）**（见 §3.3）、**圣域（The Sanctuary）**（见 §3.4），以及温室（The Conservatory，玩家的新家）。
 - 岛上没有实体 NPC：所有人物通过**通讯站**联络，琪琪与看护员以全息投影/机器人形式在场。
-- 关联文件：`slime-rancher-2/world/`、`slime-rancher-2/overview.md`、`slime-rancher-2/ranch/comm-station.md`
+- 关联文件：`game-2/world/`、`game-2/overview.md`、`game-2/ranch/comm-station.md`
 
 ---
 
@@ -50,7 +50,7 @@
 - 核心生理循环：**进食 → 排泄结晶**。喂食最爱食物产出**双倍结晶**；吃下不属于自己的结晶会突变为**大型史莱姆**。
 - 部分史莱姆有环境依赖：荧光史莱姆见光会消失、水滴史莱姆离水会干涸、火焰史莱姆需要热源、黄金/招财史莱姆极其稀有且不可杂交。
 - 史莱姆分类：常规史莱姆（SR1 共 16 种）、特殊形态（黄金/招财/水银/火焰/水滴/故障等）、**大型史莱姆（Largo）**、**巨型史莱姆（Gordo）**、**狂暴史莱姆（Feral）**、**焦油怪（Tarr）**。
-- 关联文件：`slime-rancher-1/slimes/`、`slime-rancher-2/slimes/`
+- 关联文件：`game-1/slimes/`、`game-2/slimes/`
 
 ### 2.2 结晶（Plort）与结晶经济学
 
@@ -67,7 +67,7 @@
   - **黄金结晶**：几乎无实用价值，只因稀有闪亮而最值钱，是地球精英的珠宝。
   - **水银结晶**：莫奇场外交易，买家与动机成谜。
 - 结晶市场（Plort Market）价格每日波动；结晶也是**史莱姆科技**（精炼炉/制造器）的核心原料。
-- 关联文件：`slime-rancher-1/resources/plorts.md`、`slime-rancher-2/resources/plorts.md`、`slime-rancher-1/ranch/ranch-facilities/plort_market.md`
+- 关联文件：`game-1/resources/plorts.md`、`game-2/resources/plorts.md`、`game-1/ranch/ranch-facilities/plort_market.md`
 
 ### 2.3 新币（Newbucks）：通用货币
 
@@ -75,27 +75,27 @@
 - **主要赚取方式**：在结晶市场出售结晶（最主要来源）；此外包括开藏宝箱/补给箱时的"新币雨"、喂食**招财史莱姆**（直接喷出新币）、向莫奇交易所出售水银结晶（场外交易，每 10 颗）等。
 - **主要花费**：牧场建筑与扩张区、真空枪升级、7Z 奖励俱乐部等级（逐级涨价）、装置设计图（二代）、立购坊商品（二代）等。
 - 世界观佐证：7Z 集团邮件以新币计价（"通往伟大的道路，一次一大笔新币"）；招财史莱姆的设定就是"吐新币的史莱姆"。
-- 关联文件：`terminology.md`（译名）、`slime-rancher-1/tutorial/plorts.md`、`slime-rancher-2/ranch/prontomart.md`、`slime-rancher-1/slimes/lucky_slime.md`
+- 关联文件：`terminology.md`（译名）、`game-1/tutorial/plorts.md`、`game-2/ranch/prontomart.md`、`game-1/slimes/lucky_slime.md`
 
 ### 2.4 大型史莱姆与焦油怪
 
 - **大型史莱姆（Largo）**：史莱姆吃下非本种结晶后形成的**永久杂交体**（如"大型炸弹喵喵史莱姆"），体型更大、产两种结晶，食谱变成杂食。
 - **焦油怪（Tarr）**：大型史莱姆再吃下第三种结晶后突变而成——"那些可怕的、贪婪的彩虹"。焦油怪会吞噬其他史莱姆并**自我复制**，接触的食物会腐烂，是牧场最大的生态威胁；**怕水**，白天一泼水即消散，夜晚需要两泼。休闲模式下不存在。
 - 史莱姆百科对焦油怪的描述"Those awful, ravenous rainbows"首字母缩写正是 **TARR**。
-- 关联文件：`slime-rancher-1/slimes/tarr_slime.md`、`slime-rancher-1/slimes/largo_slime.md`、`slime-rancher-2/slimes/tarr_slime.md`
+- 关联文件：`game-1/slimes/tarr_slime.md`、`game-1/slimes/largo_slime.md`、`game-2/slimes/tarr_slime.md`
 
 ### 2.5 巨型史莱姆与狂暴史莱姆
 
 - **巨型史莱姆（Gordo）**：吃得过饱的巨大史莱姆，吃掉足够数量的食物后爆开；固定野生巨型会揭示通往新区域/捷径的东西——一代为**史莱姆钥匙**（开史莱姆大门，仅 11 个固定野生巨型掉钥匙）或静态传送器，二代为通道/传送门（**二代无史莱姆钥匙系统**）；诱捕器召唤的巨型不参与这类揭示。
 - **狂暴史莱姆（Feral）**：饥饿/环境压力下失去驯顺性的野生史莱姆，会主动攻击牧场主。
-- 关联文件：`slime-rancher-1/slimes/gordo_slime.md`、`slime-rancher-1/slimes/feral_slime.md`、`slime-rancher-1/world/keys.md`
+- 关联文件：`game-1/slimes/gordo_slime.md`、`game-1/slimes/feral_slime.md`、`game-1/world/keys.md`
 
 ### 2.6 远古史莱姆与"胶罗纪"
 
 - **剑齿史莱姆（Saber Slime）**是已知最古老的史莱姆种群之一；其**大型后代**组成了一代荒蛮群岛的狂暴史莱姆群落。
 - 二代的**落粉峭壁**保存着约 10 亿年前"**胶罗纪（Jellassic）**"的完整生态——纯血剑齿史莱姆与雷鸣母鸡曾被认为早已灭绝。
 - 剑齿结晶因"历史价值"被收藏；曾有科学家试图从中提取史莱姆 DNA 复活纯血剑齿史莱姆，全部失败（百科吐槽：真复活了就会有富豪拿它开主题公园）。
-- 关联文件：`slime-rancher-1/slimes/saber_slime.md`、`slime-rancher-1/world/wilds.md`、`slime-rancher-2/world/bluffs.md`
+- 关联文件：`game-1/slimes/saber_slime.md`、`game-1/world/wilds.md`、`game-2/world/bluffs.md`
 
 ---
 
@@ -105,7 +105,7 @@
 
 ### 3.1 "建造者"与史莱姆雕像
 
-- **两代共通的开门解谜辨识**：投结晶开门时，放结晶的一律是对应的史莱姆雕像，而不是往门上的几何标志投放。此原则不把结晶市场等其他结晶设备算作雕像；二代具体门型、辉光传导机关和图片仅见 `slime-rancher-2/world/doors.md`，不得套用一代。
+- **两代共通的开门解谜辨识**：投结晶开门时，放结晶的一律是对应的史莱姆雕像，而不是往门上的几何标志投放。此原则不把结晶市场等其他结晶设备算作雕像；二代具体门型、辉光传导机关和图片仅见 `game-2/world/doors.md`，不得套用一代。
 - 致远牧星上存在大量**来源不明的人工结构**：一代的古代遗迹、干涸岩礁远方的神秘"环"、二代遍布彩虹岛的**巨大微笑史莱姆雕像**与石刻符号。
 - 霍布森日志：「建造者们超喜欢史莱姆！」——所有证据都指向一个崇拜/喜爱史莱姆的**前人类文明**。
 - 二代圣域的记载进一步确认：**灰色迷宫与圣域出自同一批"先民"之手**。
@@ -114,21 +114,21 @@
 
 - 一代**古代遗迹（Ancient Ruins）**是"致远牧星上极少数非自然结构"，内部量子史莱姆、相位柠檬树违背常理；其深处是一台**传送站**，连接着致远牧星最偏远的角落——**玻璃荒漠**。
 - 霍布森经过多年研究确认：这些遗迹其实是"**能穿越空间、甚至时间**的伟大机器"。玻璃荒漠深处的**巨型传送终端**正是这样的装置（见 §6.1 与 §6.2）。
-- 关联文件：`slime-rancher-1/world/ruins.md`、`slime-rancher-1/world/desert.md`、`slime-rancher-1/mail/hobson-journals.md`
+- 关联文件：`game-1/world/ruins.md`、`game-1/world/desert.md`、`game-1/mail/hobson-journals.md`
 
 ### 3.3 灰色迷宫与棱镜核心【剧透】
 
 - **灰色迷宫（The Grey Labyrinth）**是彩虹岛上"先民"建造的巨型多层结构，表面拒人于外、内部实则"关着什么东西"——一股不稳定的能量脉冲来自建筑最深处：**棱镜核心（The Prismacore）**。
 - 棱镜核心**来自外太空**（fandom/琪琪台词），很久以前坠落在彩虹岛，它的到来让整座岛屿逐渐改变：岛外主要表现为色彩变化，迷宫内则被放大为元素属性的彻底转变；靠近核心的区域正慢慢**变成黄金**。
 - 若核心失控，迷宫会崩解，棱镜能量将辐射整个致远牧星——"让世界面目全非，并带走包括所有史莱姆在内的全部生命"。
-- 玩家需找到 5 台**和谐器（Harmonizer）**激活，进入核心内部突破巨型焦油怪屏障稳定它。稳定后棱镜核心成为致远牧星的一部分而非毁灭者（后续详见 §6.2 与 `slime-rancher-2/gigi/story.md`）。
-- 关联文件：`slime-rancher-2/world/labyrinth.md`、`slime-rancher-2/gigi/`（story / projector-dialogues / research-drones / exchange）
+- 玩家需找到 5 台**和谐器（Harmonizer）**激活，进入核心内部突破巨型焦油怪屏障稳定它。稳定后棱镜核心成为致远牧星的一部分而非毁灭者（后续详见 §6.2 与 `game-2/gigi/story.md`）。
+- 关联文件：`game-2/world/labyrinth.md`、`game-2/gigi/`（story / projector-dialogues / research-drones / exchange）
 
 ### 3.4 圣域
 
 - **圣域（The Sanctuary）**：同样由迷宫先民开垦的独立小岛，建有"用途同样神秘"的古老设施——从线索看是**照料史莱姆**的地方；深处住着一位"与众不同的新朋友"：**看护员（Caretaker）**机器人。
 - 看护员曾是灰色迷宫众多机器人之一，是唯一既未腐烂也未离开的（其来历与棱镜核心时代相关）。
-- 关联文件：`slime-rancher-2/world/sanctuary.md`、`slime-rancher-2/ranch/caretaker.md`
+- 关联文件：`game-2/world/sanctuary.md`、`game-2/ranch/caretaker.md`
 
 ---
 
@@ -139,18 +139,18 @@
 - 跨星系巨型企业：安排碧翠丝乘**太空舱**沉睡一年抵达致远牧星，授予牧场所有权，经营**7Z 奖励俱乐部**（28 级会员体系，解锁调色包、史莱姆玩具、传送器等高阶奖励）。
 - 风格：无处不在的监控式服务（"神不知鬼不觉就能在你家门前安装好机器"）、公关话术幽默自黑（把炸弹结晶和火焰结晶同舱运输导致"神秘形象"散落全星球，还能包装成"寻宝活动"）。
 - 口号示例：「7Z集团：为你提供解决大问题的工具，只收取良心价格。」
-- 关联文件：`slime-rancher-1/npc.md`、`slime-rancher-1/mail/7zee-corporation.md`、`slime-rancher-1/ranch/partner.md`
+- 关联文件：`game-1/npc.md`、`game-1/mail/7zee-corporation.md`、`game-1/ranch/partner.md`
 
 ### 4.2 迈尔斯科技（MilesTech）
 
 - 由**莫奇·迈尔斯**创立/掌控的科技公司；迅捷峡谷的发电机系统、水银史莱姆诱捕装置（闪光弹、充能站、中继圈、能量增强站）均出自其手。
 - 莫奇是亿万富翁 Tatsuya Miles 之女（fandom），自称"顶级牧场主"，经营结晶市场。
-- 关联文件：`slime-rancher-1/npc.md`、`slime-rancher-1/exchange/mochi.md`、`slime-rancher-1/world/valley.md`
+- 关联文件：`game-1/npc.md`、`game-1/exchange/mochi.md`、`game-1/world/valley.md`
 
 ### 4.3 立购坊（ProntoMart）
 
 - 二代商业组织，旗下三家商店：**啾啾角**（每日随机玩具/商品）、**极星供应站**（常规补给）、**夜市**（夜晚开放，收**彩虹币**——由棱镜结晶兑换站发行的紫色新月货币，10 棱镜结晶 = 1 彩虹币）。
-- 关联文件：`slime-rancher-2/ranch/prontomart.md`、`slime-rancher-2/ranch/plort_market.md`
+- 关联文件：`game-2/ranch/prontomart.md`、`game-2/ranch/plort_market.md`
 
 ---
 
@@ -177,7 +177,7 @@
 
 - **琪琪 = 霍布森 × 索拉的孙女**（二代结局揭示）；琪琪的母亲是霍布森与索拉的女儿。
 - 二代结局的家族合影：琪琪、霍布森、索拉与**仍在襁褓中的琪琪母亲**——这是霍布森在系列中的首次“亮相”。分镜中婴儿先由霍布森抱着，拍摄合影时主要由索拉抱着。
-- 关联文件：`slime-rancher-1/npc.md`、`slime-rancher-2/npc.md`、`slime-rancher-2/gigi/story.md`
+- 关联文件：`game-1/npc.md`、`game-2/npc.md`、`game-2/gigi/story.md`
 
 ---
 
@@ -190,7 +190,7 @@
 - 结局（成就"此门彼门"）：**霍布森选择留下**——"我选了我的门"，转身回去找索拉，把金库与牧场留给了碧翠丝。片尾动画后，霍布森来信激活三座**秘密宝库**（干涸岩礁环礁岛/靛蓝采石场灰烬岛/被苔岛野性小径，共藏黄金结晶 400+ 颗）。
 - 凯西线：11 封信讲述两人在地球的往事（花店、暴风雨咖啡馆、死亡徒步、旅行车、新年前夜、非洲、伦敦……），凯西最终释怀并祝福："天空中的繁星，有一颗是你。"
 - 主题曲《1,000 Light Years Away》在结局响起。
-- 关联文件：`slime-rancher-1/mail/hobson-journals.md`、`slime-rancher-1/mail/hobson.md`、`slime-rancher-1/mail/casey.md`、`slime-rancher-1/hobson-vaults.md`、`slime-rancher-1/intro-outro.md`
+- 关联文件：`game-1/mail/hobson-journals.md`、`game-1/mail/hobson.md`、`game-1/mail/casey.md`、`game-1/hobson-vaults.md`、`game-1/intro-outro.md`
 
 ### 6.2 二代：棱镜核心与"输给时间的女孩"【剧透】
 
@@ -198,7 +198,7 @@
 - 幕后：信与船都来自**琪琪**——来自未来的少女，霍布森的孙女。她的时间线里棱镜核心失控爆炸，能量感染了她的右臂；致远牧星濒临毁灭（树木金属化、水体玻璃化、现实瓦解）。她用祖父在玻璃荒漠发现的**"超越时空的传送门"**来到现在的时间线求助，传送门随后崩塌，她无法回家，于是留在迷宫抑制核心、弥补过错。
 - 过程：琪琪匿名联络碧翠丝考验其可信度；同时伪装成"外星 AI"联系维克多，借他之手完成**辉光投影仪**设计图，让碧翠丝得以进入灰色迷宫。玩家收集棱镜结晶、激活和谐器、击破焦油怪屏障，最终稳定棱镜核心。
 - 结局：核心稳定后，琪琪有记忆以来第一次走出灰色迷宫，与现在时间线的索拉、霍布森以及仍是婴儿的母亲团聚。告别家人后，她踏入时间光柱；另一条时间线中，成年母亲看见天际的棱镜异象随朝阳消散，意识到琪琪成功了，但女儿没有归来。时间线随之产生新的记忆：母亲记起索拉曾向她讲述琪琪及其牺牲，也记起婴儿时期全家团聚的画面。终局旁白——"后来在挚友与运气的助力下，女孩拯救了世界……却输给了时间。""但时间之外的某处，有位母亲始终等待着女儿归来。"片尾：**"总有一天，以某种方式……我们会再次相见。"**
-- 关联文件：`slime-rancher-2/gigi/story.md`、`slime-rancher-2/gigi/projector-dialogues.md`、`slime-rancher-2/gigi/research-drones.md`、`slime-rancher-2/gigi/exchange.md`
+- 关联文件：`game-2/gigi/story.md`、`game-2/gigi/projector-dialogues.md`、`game-2/gigi/research-drones.md`、`game-2/gigi/exchange.md`
 
 ---
 
@@ -213,19 +213,19 @@
 
 - 精炼炉（把结晶等素材转化为材料）+ 制造器 + 设计图体系：可制造采集器、钻机、泵机、传送科技、无人机、装饰与珍玩等数百种装置。
 - **无人机（Drone）**：自动化牧场工作（一代 7Z 出品；二代升级为**量子无人机**，可勘探模式存入量子云）。
-- 关联文件：`slime-rancher-1/science/`、`slime-rancher-2/science/`、`slime-rancher-2/blueprints/quantum_drones.md`
+- 关联文件：`game-1/science/`、`game-2/science/`、`game-2/blueprints/quantum_drones.md`
 
 ### 7.3 传送科技（Warp Tech）
 
 - 现代牧场主使用可制造的传送器/传送科技；古代文明则留下了规模宏大的传送网络（古代遗迹传送站、玻璃荒漠巨型终端）。
 - 霍布森确认玻璃荒漠巨型终端"能穿越空间，甚至时间"——这是系列时间旅行设定的根基。
-- 关联文件：`slime-rancher-1/science/warp_tech.md`、`slime-rancher-2/science/warp_tech.md`
+- 关联文件：`game-1/science/warp_tech.md`、`game-2/science/warp_tech.md`
 
 ### 7.4 史莱模（The Slimeulation）
 
 - 维克多开发的**致远牧星虚拟重现系统**，用于预测史莱姆习性与进化；因代码库充满错误，产生了**故障史莱姆**与数字焦油怪。玩家进入其中捕捉故障史莱姆、提交故障报告换取奖励。
 - 设定趣味点：虚拟世界里的"数字焦油怪"像电脑病毒一样自我复制。
-- 关联文件：`slime-rancher-1/world/slimulations.md`、`slime-rancher-1/slimes/glitch_slime.md`
+- 关联文件：`game-1/world/slimulations.md`、`game-1/slimes/glitch_slime.md`
 
 ### 7.5 星际旅行
 
@@ -255,7 +255,7 @@
 
 - **古代遗迹的建造者是谁？**干涸岩礁远方的"环"是谁造的、有何用途？（霍布森也答不上来）
 - **史莱姆之海的本质**：真的是史莱姆的"原始汤"吗？史莱姆掉入后去了哪里？
-- **鲍勃到底是不是人**？（2 代加密乱码彩蛋：“鲍勃和碧翠丝一样是正常人。绝对是。”）立绘显示他是多只粉红史莱姆叠罗汉、披风衣戴呢帽的伪装；更离谱的是，官方预告称**鸡克隆机**是“维克多的科研伙伴制造的实验装置”——一个只会敲“鸡”的家伙造出了克隆鸡的机器（详见 `slime-rancher-1/exchange/bob.md`）
+- **鲍勃到底是不是人**？（2 代加密乱码彩蛋：“鲍勃和碧翠丝一样是正常人。绝对是。”）立绘显示他是多只粉红史莱姆叠罗汉、披风衣戴呢帽的伪装；更离谱的是，官方预告称**鸡克隆机**是“维克多的科研伙伴制造的实验装置”——一个只会敲“鸡”的家伙造出了克隆鸡的机器（详见 `game-1/exchange/bob.md`）
 - **水银结晶的场外买家**是谁、买去做什么？
 - **7Z 集团的真实意图**：一家"用良心价格解决大问题"的星际企业，还是更微妙的存在？（邮件口吻常含黑色幽默，未正面交代）
 - **"超越时空的传送门"与琪琪的归途**：结局确认她拯救了未来世界，却没有回到仍在等待的母亲身边；她能否以及如何再次与母亲相见，仍是片尾留下的悬念。
@@ -267,15 +267,15 @@
 
 ### 一级来源
 - 游戏内《史莱姆百科》世界/史莱姆选项卡（官方简中文本，各区域文件均已收录）
-- 游戏内星际邮件（Starmail）：`slime-rancher-1/mail/`（霍布森日志、凯西、7Z 集团等）
-- 游戏内本地化 UI 文本（开场/结局）：`slime-rancher-1/intro-outro.md`、`slime-rancher-2/gigi/story.md`
+- 游戏内星际邮件（Starmail）：`game-1/mail/`（霍布森日志、凯西、7Z 集团等）
+- 游戏内本地化 UI 文本（开场/结局）：`game-1/intro-outro.md`、`game-2/gigi/story.md`
 
 ### 二级来源
 - Fandom 社区 Wiki：Plorts / The Prismacore / Rainbow Island / The Tarr 等页面（本文引用处已标注）
 
 ### 关联文件索引
-- 一代角色：`slime-rancher-1/npc.md`；二代角色：`slime-rancher-2/npc.md`
-- 一代区域：`slime-rancher-1/world/`；二代区域：`slime-rancher-2/world/`
-- 史莱姆：`slime-rancher-1/slimes/`、`slime-rancher-2/slimes/`
-- 剧情主线：`slime-rancher-1/mail/hobson-journals.md`、`slime-rancher-1/hobson-vaults.md`、`slime-rancher-2/gigi/story.md`
+- 一代角色：`game-1/npc.md`；二代角色：`game-2/npc.md`
+- 一代区域：`game-1/world/`；二代区域：`game-2/world/`
+- 史莱姆：`game-1/slimes/`、`game-2/slimes/`
+- 剧情主线：`game-1/mail/hobson-journals.md`、`game-1/hobson-vaults.md`、`game-2/gigi/story.md`
 - 术语对照（官中译名）：`terminology.md`
