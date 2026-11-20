@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：echo_note_gordo_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 一闪一闪亮晶晶，满眼都是小星星
@@ -55,7 +55,7 @@
 > Twinkle slimes do not seem to eat, and do not produce plorts.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现方式**：2018 年起每年嘟嘟乐园（Wiggly Wonderland）活动期间，在固定位置出现
 

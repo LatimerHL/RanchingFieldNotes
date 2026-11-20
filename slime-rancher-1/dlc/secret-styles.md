@@ -1,4 +1,4 @@
-# Slime Rancher: Secret Style Pack - 神秘形象包
+# 神秘形象包（Secret Style Pack）
 
 ## 简介
 在致远牧星各地的特殊藏宝球中发现神秘形象，给你最爱的史莱姆一个焕然一新的外观！
@@ -81,7 +81,7 @@ https://store.steampowered.com/app/1079180/Slime_Rancher_Secret_Style_Pack/
 
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom：Secret Style Pack / Treasure Pods/Secret Style）
+> 来源：Fandom 社区 Wiki（Secret Style Pack / Treasure Pods/Secret Style）
 
 - **藏宝球**：20 个金紫色藏宝球分布在致远牧星各地，**无需藏宝球破解器即可开启**（但建议购买喷气背包以便到达全部位置）
 - **解锁机制**：解锁后自动应用到该类型全部史莱姆；可在牧场小屋的「神秘形象」菜单随时开关；大型史莱姆会综合两种形态的激活选项（每个大型最多 3 种外观组合）

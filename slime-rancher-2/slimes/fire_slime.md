@@ -1,8 +1,8 @@
 # 火焰史莱姆（Fire Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：fire_slime（t.fire_slime / m.intro.fire_slime / m.slimeology.fire_slime / m.risks.fire_slime / m.plortonomics.fire_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 火焰史莱姆（Fire Slime）

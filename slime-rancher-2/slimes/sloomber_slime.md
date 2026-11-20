@@ -1,8 +1,8 @@
 # 昏昏史莱姆（Sloomber Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：sloomber_slime（t.sloomber_slime / m.intro.sloomber_slime / m.slimeology.sloomber_slime / m.risks.sloomber_slime / m.plortonomics.sloomber_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 昏昏史莱姆（Sloomber Slime）

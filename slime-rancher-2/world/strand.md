@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）
 > 条目ID：strand（t.strand / m.intro.strand / m.desc.strand）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 星光滨岸（Starlight Strand）

@@ -1,8 +1,8 @@
 # 园地（Garden）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Garden (Slime Rancher 2) 页面，价格）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Garden (二代) 页面，价格）
 > 条目ID：garden（t.garden / m.intro.garden / m.desc.garden）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 园地（Garden）

@@ -1,8 +1,8 @@
 # 蜂蜜史莱姆（Honey Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：honey_slime（t.honey_slime / m.intro.honey_slime / m.slimeology.honey_slime / m.risks.honey_slime / m.plortonomics.honey_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 蜂蜜史莱姆（Honey Slime）

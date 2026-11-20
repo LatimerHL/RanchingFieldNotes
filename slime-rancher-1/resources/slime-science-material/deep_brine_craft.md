@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：deep_brine_craft
 > 类别：史莱姆科技材料
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 地心出品，必属精品。
@@ -45,7 +45,7 @@
 > Deposit deep brine into the Lab's Refinery where it can then be used for fabricating     Slime Science gadgets.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **获取方式**：泵机采集，**仅限干涸岩礁**（牧场及其扩张区域不算干涸岩礁，无法获得）
 

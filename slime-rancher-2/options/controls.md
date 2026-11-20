@@ -1,7 +1,7 @@
 # 控制（Controls）
 
 > 来源：游戏内本地化 Options 表（Options_en/zh + Shared Data，设置项名称/描述官中）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 > 提示：本分类含鼠标与控制器（手柄）设置；PS5 平台另有以 ps5. 前缀命名的等价设置变体（见 ui-extra.md）。
 

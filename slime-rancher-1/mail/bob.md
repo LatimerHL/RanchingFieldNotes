@@ -1,7 +1,7 @@
 # 鲍勃（BOb）
 
 > 来源：游戏内星际邮件（Starmail）
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ---
 

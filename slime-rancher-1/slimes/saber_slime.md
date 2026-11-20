@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：saber_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 或者至少是其后代
@@ -55,7 +55,7 @@
 > Saber plorts are collected for their historical value, offering a window into the     primitive past of the Far, Far Range. Some slime scientists have tried to extract the slime DNA from these plorts 	in order to recreate a true saber slime, but all have failed. And honestly, that's probably for the better, 	because as soon as that happens some charming billionaire would be talking about making a whole theme park to 	view them in captivity and then...
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：荒蛮群岛（仅以剑齿大型史莱姆形态出现）
 

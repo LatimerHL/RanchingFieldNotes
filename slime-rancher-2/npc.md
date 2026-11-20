@@ -1,10 +1,10 @@
-# NPC 一览（Slime Rancher 2）
+# NPC 一览（二代）
 
-> 版本：Slime Rancher 2
+> 适用：二代
 > 来源：游戏内本地化文本（Rancher 表角色名、CommStation 对话、琪琪线、看护员）+ fandom（NPC 页面，SR2 相关内容）
 > ⚠️ **剧透警告**：本页部分角色（琪琪、索拉、霍布森、维克多）的详细介绍涉及主线剧情，已标注【剧透】；未标注的为无剧透内容。
 
-《史莱姆牧场 2》的角色体系：游戏内**没有实体 NPC 模型**，所有角色通过**通讯站（Comm Station）**联络与赠送礼物；琪琪（棱镜核心）与看护员（圣域）以全息投影 / 机器人形式在场。通讯站全部对话与赠品清单见 `ranch/comm-station.md`，看护员商店见 `ranch/caretaker.md`，琪琪全套资料见 `gigi/`。
+二代的角色体系：游戏内**没有实体 NPC 模型**，所有角色通过**通讯站（Comm Station）**联络与赠送礼物；琪琪（棱镜核心）与看护员（圣域）以全息投影 / 机器人形式在场。通讯站全部对话与赠品清单见 `ranch/comm-station.md`，看护员商店见 `ranch/caretaker.md`，琪琪全套资料见 `gigi/`。
 
 ## 碧翠丝·乐步（Beatrix LeBeau）
 

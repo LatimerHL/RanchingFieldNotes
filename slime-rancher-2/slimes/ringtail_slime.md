@@ -1,8 +1,8 @@
 # 浣熊史莱姆（Ringtail Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：ringtail_slime（t.ringtail_slime / m.intro.ringtail_slime / m.slimeology.ringtail_slime / m.risks.ringtail_slime / m.plortonomics.ringtail_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 浣熊史莱姆（Ringtail Slime）

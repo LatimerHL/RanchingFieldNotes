@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 世界选项卡
 > 条目ID：desert
-> 版本：Slime Rancher 1
+> 适用：一代
 
 > ⚠️ **轻微剧透警告**：结局触发区域，含最终剧情节点，介意剧透请谨慎阅读。
 ## 简介
@@ -28,7 +28,7 @@
 > 	But the desert's barren, unforgiving, sometimes violent environment hides a secret: somewhere deep within it lies 	a memory of what once was, and a means of restoring parts of that memory.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **解锁方式**：需 1 把史莱姆钥匙 + 向 5 座量子结晶雕像各射入 1 个量子结晶，激活遗迹北端的传送器；之后可用自建传送器往返
 

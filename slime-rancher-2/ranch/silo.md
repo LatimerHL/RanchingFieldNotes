@@ -1,8 +1,8 @@
 # 仓储塔（Silo）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Silo (Slime Rancher 2) 页面，价格）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Silo (二代) 页面，价格）
 > 条目ID：silo（t.silo / m.intro.silo / m.desc.silo）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 仓储塔（Silo）

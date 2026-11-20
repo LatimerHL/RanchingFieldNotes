@@ -1,8 +1,8 @@
 # 焦油怪（The Tarr）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：tarr_slime（t.tarr_slime / m.intro.tarr_slime / m.slimeology.tarr_slime / m.risks.tarr_slime / m.plortonomics.tarr_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 焦油怪（The Tarr），HUD 显示名称为「焦油怪史莱姆」（Tarr Slime）

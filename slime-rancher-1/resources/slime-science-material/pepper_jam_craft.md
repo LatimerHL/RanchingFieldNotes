@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：pepper_jam_craft
 > 类别：史莱姆科技材料
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 甜腻、辛辣、美味至极！蜜蜂都是棒棒哒。
@@ -45,7 +45,7 @@
 > Deposit pepper jam into the Lab's Refinery where they can then be used for fabricating     Slime Science gadgets.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **获取方式**：蜂房采集，**仅限玻璃荒漠**
 

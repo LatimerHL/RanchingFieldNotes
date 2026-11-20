@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：corral
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 史莱姆吃得饱，牧场主过得好。
@@ -67,7 +67,7 @@
 > An auto-feeder will drop food into the corral at regular intervals. Just     remember to keep it stocked!
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **可用地块**：牧场、奥格登的别墅、莫奇庄园、维克多的工作间
 

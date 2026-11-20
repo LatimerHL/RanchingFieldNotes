@@ -1,8 +1,8 @@
 # 成就（Achievements）
-> ⚠️ 提示：本页个别内容（成就名称/解锁条件）涉及《史莱姆牧场 2》主线剧情（琪琪与棱镜核心），可能有轻微剧透。
+> ⚠️ 提示：本页个别内容（成就名称/解锁条件）涉及二代主线剧情（琪琪与棱镜核心），可能有轻微剧透。
 
-> 来源：游戏内本地化 Achievement 表（Achievement_en/zh + Shared Data，名称/描述官中）+ fandom（Achievements (Slime Rancher 2) 页面，隐藏成就标注）
-> 版本：Slime Rancher 2（1.0.0 起实装 28 个）
+> 来源：游戏内本地化 Achievement 表（Achievement_en/zh + Shared Data，名称/描述官中）+ fandom（Achievements (二代) 页面，隐藏成就标注）
+> 适用：二代（1.0.0 起实装 28 个）
 
 ## 概况
 

@@ -1,6 +1,6 @@
-# 版本 1.2.x 更新日志（Slime Rancher 1）
+# 版本 1.2.x 更新日志（一代）
 
-> 来源：fandom「Game Versions」及其子页（slimerancher.fandom.com/wiki/Game_Versions/Version_1.2.0 / 1.2.1 / 1.2.2，官方公告 forums.monomipark.com，论坛已关闭，此为 fandom 存档）；中文对照：fandom 中文 wiki「游戏版本 (史莱姆牧场)」页及 LatimerRowe 的 v1.2.0 / v1.2.1 / v1.2.2 翻译博客；WeGame 视频补正 v1.2.0 版本名；2026-08-19 拉取并本地化
+> 来源：fandom「Game Versions」及其子页（slimerancher.fandom.com/wiki/Game_Versions/Version_1.2.0 / 1.2.1 / 1.2.2，官方公告 forums.monomipark.com，论坛已关闭，此为 fandom 存档）；中文对照：fandom 中文 wiki「一代版本记录」页及 LatimerRowe 的 v1.2.0 / v1.2.1 / v1.2.2 翻译博客；WeGame 视频补正 v1.2.0 版本名；2026-08-19 拉取并本地化
 > 版本名：v1.2.0 采用 WeGame 视频译名「莫奇的财富更新」（Mochi's Megabucks Update）；v1.2.1、v1.2.2 参考 fandom 中文 wiki——小型大容量更新（Little Big Storage Update）、骚动我们的Party！（Let's Get This Party Started!）
 > 范围确认：1.2.x 共 3 个正式版本（1.2.0、1.2.1、1.2.2）+ 2 个补丁（1.2.0b、1.2.1b）；下一版为 1.3.0（自动化更新）
 > 术语：以 terminology.md 官中为准（经 sr-textasset 官方简中语料核对）；LatimerRowe 旧译仅作语气与表达参考，和官中冲突处采用官中；存疑处已标注 ⚠️

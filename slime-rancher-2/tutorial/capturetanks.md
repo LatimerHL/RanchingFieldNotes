@@ -2,7 +2,7 @@
 
 > 来源：游戏内教程（本地化文本 Pedia / PediaPage 表）
 > 条目ID：capturetanks（t.capturetanks / m.intro.capturetanks / m.instructions.capturetanks）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 真空储槽（Vac Tanks）

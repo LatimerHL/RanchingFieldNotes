@@ -1,14 +1,12 @@
-# Slime Rancher 2: Original Soundtrack - 游戏原声带（Vol. 1）
+# 游戏原声带 Vol. 1（Original Soundtrack）
 
-> 版本：Slime Rancher 2
+> 适用：二代
 > 整理：Steam 商店 API + fandom wiki（2026-08 核对）
 
 ## 简介
-《Slime Rancher 2》游戏原声带包含由作曲家 Harry Mack 打造的总时长 3 小时以上的 36 首音轨。全部曲目都以高质量 MP3 与 FLAC 格式提供。收录的是 EA 首发时期已有的音乐。
+二代游戏原声带包含由作曲家 Harry Mack 打造的总时长 3 小时以上的 36 首音轨。全部曲目都以高质量 MP3 与 FLAC 格式提供。收录的是 EA 首发时期已有的音乐。
 
-**原文参考：**
-
-> The Slime Rancher 2 Original Soundtrack includes over 3 hours of music in 36 tracks by composer Harry Mack. All tracks are available in high quality mp3 and flac format.
+> Steam 商店说明摘要：Harry Mack 创作的 36 首曲目总时长超过 3 小时，提供 MP3 和 FLAC 格式。
 
 ## 信息
 - 发行日期（商店页口径）：2022 年 9 月 22 日（随 EA 抢先体验首发上架）
@@ -24,7 +22,7 @@
 - Epic（国区）: ¥30（2026-08 epicdb 复核确认；查询时点 -25% → ¥22.50）
 
 ## 描述
-《史莱姆牧场 2》游戏原声带包含作曲家 Harry Mack 打造的总时长 3 小时以上的 36 首音轨，全部以高品质 MP3 与 FLAC 格式提供。
+二代游戏原声带包含作曲家 Harry Mack 打造的总时长 3 小时以上的 36 首音轨，全部以高品质 MP3 与 FLAC 格式提供。
 
 ## 曲目列表
 

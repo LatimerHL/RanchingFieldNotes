@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆科技选项卡
 > 条目ID：utilities
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 各种用途的便利工具。
@@ -142,7 +142,7 @@
 > A cactus found in the Glass Desert that slimes and other items can stick to for a short while.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 ### 制造材料与安装冷却（fandom）
 

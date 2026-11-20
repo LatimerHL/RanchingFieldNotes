@@ -1,8 +1,8 @@
 # 焚烧炉（Incinerator）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Incinerator (Slime Rancher 2) 页面，价格）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Incinerator (二代) 页面，价格）
 > 条目ID：incinerator（t.incinerator / m.intro.incinerator / m.desc.incinerator）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 焚烧炉（Incinerator）

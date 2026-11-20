@@ -2,7 +2,7 @@
 
 > 来源：游戏内教程（本地化文本 Pedia / PediaPage 表）
 > 条目ID：basics（t.basics / m.intro.basics / m.instructions.basics）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 基本玩家控制（Basic Player Controls）

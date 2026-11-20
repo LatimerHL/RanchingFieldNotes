@@ -1,9 +1,9 @@
-# NPC 一览（Slime Rancher 1）
+# NPC 一览（一代）
 
-> 版本：Slime Rancher 1
+> 适用：一代
 > 来源：游戏内文本资产（交易所、星际邮件、史莱姆百科）
 
-《史莱姆牧场》一代的主要角色。交易所（Range Exchange）相关对话见 `exchange/`，星际邮件按发件人合并于 `mail/`，霍布森日志见 `mail/hobson-journals.md`。交易所系统总览见 `exchange/range-exchange.md`。
+一代的主要角色。交易所（Range Exchange）相关对话见 `exchange/`，星际邮件按发件人合并于 `mail/`，霍布森日志见 `mail/hobson-journals.md`。交易所系统总览见 `exchange/range-exchange.md`。
 
 > ⚠️ **轻微剧透警告**：含角色往事与结局揭示，介意剧透请谨慎阅读。
 ## 碧翠丝·乐步（Beatrix LeBeau）

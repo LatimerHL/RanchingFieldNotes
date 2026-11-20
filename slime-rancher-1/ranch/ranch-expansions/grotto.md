@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：grotto
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 悬空于海上的昏暗洞穴，感觉可以拿来当做小说的背景地点。
@@ -19,7 +19,7 @@
 > The Grotto is an expansion to the ranch set inside a (slightly spooky) cave that allows a rancher to     care for light-sensitive slimes without the need for a solar shield. Never has a phosphor slime felt so liberated.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **价格**：1,795 新币
 

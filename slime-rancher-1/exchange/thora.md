@@ -2,7 +2,7 @@
 
 > 来源：游戏内交易所（Range Exchange）
 > NPC ID：thora
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 特别问候
 
@@ -57,7 +57,7 @@
 > Drinks are on me if you can get me these things in a hurry!
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **登场**：第 1 位交易所 NPC，最早第 2 天中午发来介绍邮件
 

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：incinerator
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 用不到的就烧掉！
@@ -28,7 +28,7 @@
 > An ash trough allows you to collect the ash of incinerated food at its base,     which is eaten exclusively by fire slimes. It's gross.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **用途**：处理多余物品与史莱姆；主要作为火焰史莱姆的栖息地（灰烬槽最多容纳 20 单位灰）
 

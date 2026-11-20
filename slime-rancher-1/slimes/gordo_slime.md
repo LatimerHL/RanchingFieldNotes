@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：gordo_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 祝你好胃口！
@@ -51,7 +51,7 @@
 > Gordos produce no plorts on their own, however the slimes they produce after 	bursting do like any normal slime.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **特性**：完全静止、不可直接互动或移动；不使用普通饥饿系统，而是持续接受食物直到爆炸；焦油怪不会攻击巨型史莱姆
 

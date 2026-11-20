@@ -1,8 +1,8 @@
 # 噗啦蝶史莱姆（Flutter Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：flutter_slime（t.flutter_slime / m.intro.flutter_slime / m.slimeology.flutter_slime / m.risks.flutter_slime / m.plortonomics.flutter_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 噗啦蝶史莱姆（Flutter Slime）

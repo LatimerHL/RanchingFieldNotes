@@ -1,8 +1,8 @@
 # 雪球（Snowball）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：snowball（t.snowball / m.intro.snowball / m.desc.snowball / m.how_to_use.snowball）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 雪球（Snowball）

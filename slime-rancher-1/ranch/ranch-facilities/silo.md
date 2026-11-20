@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：silo
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 东西太多没处放？仓储塔帮你忙！
@@ -28,7 +28,7 @@
 > A silo can have up to four ports for storing plorts and resources.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **机制**：将物品射入端口存储；默认 1 个端口、3 个槽位，每槽可存 300 个可存储资源
 

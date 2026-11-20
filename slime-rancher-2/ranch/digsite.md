@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）
 > 条目ID：digsite（t.digsite / m.intro.digsite / m.desc.digsite）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 挖掘场（The Digsite）

@@ -2,7 +2,7 @@
 
 > 来源：游戏内教程（本地化文本 Pedia / PediaPage 表）
 > 条目ID：ssbasics（t.ssbasics / m.intro.ssbasics / m.instructions.ssbasics）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 史莱姆科技：基础（Slime Science Basics）

@@ -2,11 +2,11 @@
 
 <!-- 由 scripts/kb-index.js 生成。 -->
 
-[通用资料](#通用资料) · [一代](#slime-rancher-1) · [二代](#slime-rancher-2)
+[通用资料](#通用资料) · [一代](#1代) · [二代](#2代)
 
 ## 通用资料
 
-- [专有名词表（全系列 Terminology）](general/terminology.md)
+- [全系列专有名词表（Terminology）](general/terminology.md)
 - [冷知识档案（Trivia \& Cut Content）](general/trivia.md)
 - [世界观总览（World Lore）](general/world-lore.md)
 
@@ -20,19 +20,19 @@
 - [开场与结局文本（Intro \& Ending）](slime-rancher-1/intro-outro.md)
 - [加载提示（Loading Tips）](slime-rancher-1/loading-tips.md)
 - [移动版支持中心（Playdigious 官方支持，Android/iOS）](slime-rancher-1/mobile-support.md)
-- [NPC 一览（Slime Rancher 1）](slime-rancher-1/npc.md)
-- [游戏概况（Slime Rancher）](slime-rancher-1/overview.md)
+- [NPC 一览（一代）](slime-rancher-1/npc.md)
+- [游戏概况（一代）](slime-rancher-1/overview.md)
 - [官方疑难解答（Official Support \& Troubleshooting）](slime-rancher-1/support-troubleshooting.md)
 
 ### dlc
 
-- [Galactic Bundle - 银河包](slime-rancher-1/dlc/galactic-bundle.md)
-- [Heroic Bundle - 英雄包](slime-rancher-1/dlc/heroic-bundle.md)
+- [银河包（Galactic Bundle）](slime-rancher-1/dlc/galactic-bundle.md)
+- [英雄包（Heroic Bundle）](slime-rancher-1/dlc/heroic-bundle.md)
 - [DLC 说明](slime-rancher-1/dlc/notes.md)
-- [Original Soundtrack - 原声音乐集](slime-rancher-1/dlc/ost.md)
-- [Original Soundtrack II + The Casey Sessions - 原声碟II＋凯西选段](slime-rancher-1/dlc/ost2.md)
-- [Piratey Bundle - 海盗包](slime-rancher-1/dlc/piratey-bundle.md)
-- [Secret Style Pack - 神秘形象包](slime-rancher-1/dlc/secret-styles.md)
+- [原声音乐集（Original Soundtrack）](slime-rancher-1/dlc/ost.md)
+- [原声碟 II＋凯西选段（Original Soundtrack II + The Casey Sessions）](slime-rancher-1/dlc/ost2.md)
+- [海盗包（Piratey Bundle）](slime-rancher-1/dlc/piratey-bundle.md)
+- [神秘形象包（Secret Style Pack）](slime-rancher-1/dlc/secret-styles.md)
 - [VR Playground](slime-rancher-1/dlc/vr-playground.md)
 
 ### exchange
@@ -46,16 +46,16 @@
 
 ### game-versions
 
-- [版本 0.2.x 更新日志（1代）](slime-rancher-1/game-versions/version-0.2.md)
-- [版本 0.3.x 更新日志（1代）](slime-rancher-1/game-versions/version-0.3.md)
-- [版本 0.4.x 更新日志（1代）](slime-rancher-1/game-versions/version-0.4.md)
-- [版本 0.5.x 更新日志（1代）](slime-rancher-1/game-versions/version-0.5.md)
-- [版本 0.6.x 更新日志（1代）](slime-rancher-1/game-versions/version-0.6.md)
-- [版本 1.0.x 更新日志（1代）](slime-rancher-1/game-versions/version-1.0.md)
-- [版本 1.1.x 更新日志（1代）](slime-rancher-1/game-versions/version-1.1.md)
-- [版本 1.2.x 更新日志（1代）](slime-rancher-1/game-versions/version-1.2.md)
-- [版本 1.3.x 更新日志（1代）](slime-rancher-1/game-versions/version-1.3.md)
-- [版本 1.4.x 更新日志（1代）](slime-rancher-1/game-versions/version-1.4.md)
+- [版本 0.2.x 更新日志（一代）](slime-rancher-1/game-versions/version-0.2.md)
+- [版本 0.3.x 更新日志（一代）](slime-rancher-1/game-versions/version-0.3.md)
+- [版本 0.4.x 更新日志（一代）](slime-rancher-1/game-versions/version-0.4.md)
+- [版本 0.5.x 更新日志（一代）](slime-rancher-1/game-versions/version-0.5.md)
+- [版本 0.6.x 更新日志（一代）](slime-rancher-1/game-versions/version-0.6.md)
+- [版本 1.0.x 更新日志（一代）](slime-rancher-1/game-versions/version-1.0.md)
+- [版本 1.1.x 更新日志（一代）](slime-rancher-1/game-versions/version-1.1.md)
+- [版本 1.2.x 更新日志（一代）](slime-rancher-1/game-versions/version-1.2.md)
+- [版本 1.3.x 更新日志（一代）](slime-rancher-1/game-versions/version-1.3.md)
+- [版本 1.4.x 更新日志（一代）](slime-rancher-1/game-versions/version-1.4.md)
 
 ### guide
 
@@ -252,8 +252,8 @@
 - [启动界面与警告（Boot Up）](slime-rancher-2/bootup.md)
 - [制作人员表（Credits）](slime-rancher-2/credits.md)
 - [音乐播放器（Music Player）](slime-rancher-2/music-player.md)
-- [NPC 一览（Slime Rancher 2）](slime-rancher-2/npc.md)
-- [游戏概况（Slime Rancher 2）](slime-rancher-2/overview.md)
+- [NPC 一览（二代）](slime-rancher-2/npc.md)
+- [游戏概况（二代）](slime-rancher-2/overview.md)
 - [官方疑难解答（Official Support \& Troubleshooting）](slime-rancher-2/support-troubleshooting.md)
 - [机制细节与技巧（Tips \& Mechanics）](slime-rancher-2/tips.md)
 
@@ -268,21 +268,21 @@
 ### dlc
 
 - [DLC 总览](slime-rancher-2/dlc/notes.md)
-- [SOriginal Soundtrack - 游戏原声带（Vol. 1）](slime-rancher-2/dlc/ost.md)
-- [Original Soundtrack, Vol. 2 - 原声大碟 Vol. 2](slime-rancher-2/dlc/ost2.md)
+- [游戏原声带 Vol. 1（Original Soundtrack）](slime-rancher-2/dlc/ost.md)
+- [原声大碟 Vol. 2（Original Soundtrack）](slime-rancher-2/dlc/ost2.md)
 
 ### game-versions
 
-- [版本 0.1.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.1.md)
-- [版本 0.2.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.2.md)
-- [版本 0.3.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.3.md)
-- [版本 0.4.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.4.md)
-- [版本 0.5.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.5.md)
-- [版本 0.6.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.6.md)
-- [版本 1.0.x 更新日志（2代）](slime-rancher-2/game-versions/version-1.0.md)
-- [版本 1.1.x 更新日志（2代）](slime-rancher-2/game-versions/version-1.1.md)
-- [版本 1.2.x 更新日志（2代）](slime-rancher-2/game-versions/version-1.2.md)
-- [版本 1.3.x 更新日志（2代）](slime-rancher-2/game-versions/version-1.3.md)
+- [版本 0.1.x 更新日志（二代）](slime-rancher-2/game-versions/version-0.1.md)
+- [版本 0.2.x 更新日志（二代）](slime-rancher-2/game-versions/version-0.2.md)
+- [版本 0.3.x 更新日志（二代）](slime-rancher-2/game-versions/version-0.3.md)
+- [版本 0.4.x 更新日志（二代）](slime-rancher-2/game-versions/version-0.4.md)
+- [版本 0.5.x 更新日志（二代 · 抢先体验）](slime-rancher-2/game-versions/version-0.5.md)
+- [版本 0.6.x 更新日志（二代 · 抢先体验）](slime-rancher-2/game-versions/version-0.6.md)
+- [版本 1.0.x 更新日志（二代 · 1.0 正式版）](slime-rancher-2/game-versions/version-1.0.md)
+- [版本 1.1.x 更新日志（二代 · 正式版）](slime-rancher-2/game-versions/version-1.1.md)
+- [版本 1.2.x 更新日志（二代 · 抢先体验）](slime-rancher-2/game-versions/version-1.2.md)
+- [版本 1.3.x 更新日志（二代）](slime-rancher-2/game-versions/version-1.3.md)
 
 ### gigi
 

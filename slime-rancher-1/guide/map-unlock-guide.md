@@ -1,6 +1,6 @@
 # 一代开图攻略（区域解锁·钥匙·解谜）
 
-> 版本：Slime Rancher 1
+> 适用：一代
 > 来源：知识库 world/ 各区域词条 + world/keys.md + slimes/gordo_slime.md + mobile-support.md（官方问答）；2026-08-18 建立
 
 ## 史莱姆钥匙（Slime Keys）——开图核心道具

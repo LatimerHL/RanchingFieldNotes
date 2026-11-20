@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：tarr_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 可怖又贪婪的虹色怪物
@@ -59,7 +59,7 @@
 > The tarr produce no plorts, only more tarr. And then more tarr still.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现方式**：大型史莱姆吃到非自身种类的结晶后变异而成，可出现在任何地点、任何时间；史莱模中也可从腐化裂隙产生
 

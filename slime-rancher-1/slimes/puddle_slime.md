@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：puddle_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 放一只在靴子里会让你保持冰凉爽酷。但好怪啊。
@@ -59,7 +59,7 @@
 > Puddle plorts are made almost entirely from an incredible hydro compound known by     chemists across the galaxy as H2Ohhhhh. This compound is used to create an absurdly expensive brand of bottled     drinking water that is sought after by the elite back on Earth. While some people argue that there is little     difference in taste between it and tap water, those people seriously are not getting it.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：干涸岩礁（环礁岛）、被苔岛、靛蓝采石场、古代遗迹、玻璃荒漠的浅水池中
 

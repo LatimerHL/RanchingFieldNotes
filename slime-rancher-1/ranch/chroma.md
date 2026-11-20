@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：chroma
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 色彩越多，乐趣越多。亘古不变的真理啊。
@@ -23,7 +23,7 @@
 >     You can acquire more chroma packs by continuing to rank up in the 7Zee Rewards Club. Only the most successful ranchers     will be able to show off the rarest chroma packs!
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **调色站位置**：牧场小屋外、奥格登的别墅（第一座大屋外）、莫奇庄园（门廊）
 

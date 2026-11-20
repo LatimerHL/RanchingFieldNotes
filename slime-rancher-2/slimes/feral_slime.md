@@ -1,8 +1,8 @@
 # 狂暴史莱姆（Feral Slimes）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：feral_slime（t.feral_slime / m.intro.feral_slime / m.slimeology.feral_slime / m.risks.feral_slime / m.plortonomics.feral_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 狂暴史莱姆（Feral Slimes）

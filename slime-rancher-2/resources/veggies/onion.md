@@ -1,8 +1,8 @@
 # 怪洋葱（Odd Onion）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：onion（t.onion / m.intro.onion / m.desc.onion / m.how_to_use.onion）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 怪洋葱（Odd Onion）

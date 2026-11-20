@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：parsnip
 > 类别：蔬菜
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 就像是胡萝卜富有又世故的亲戚。谁让人家全身都银灿灿。
@@ -41,7 +41,7 @@
 > Deposit a silver parsnip into a garden's depositor and you'll have a large silver parsnip crop of your very own.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅玻璃荒漠（恢复绿洲后稳定出现；霍布森终章神殿、藤蔓巨型史莱姆建筑后方等固定刷新点）
 

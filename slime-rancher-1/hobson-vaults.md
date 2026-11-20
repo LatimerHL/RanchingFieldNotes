@@ -1,7 +1,7 @@
 # 霍布森的金库（Hobson's Vaults）
 
-> 来源：游戏内星际邮件（mail/hobson.md）+ Slime Rancher Wiki（fandom）
-> 版本：Slime Rancher 1
+> 来源：游戏内星际邮件（mail/hobson.md）+ Fandom 社区 Wiki
+> 适用：一代
 > 剧透警告：本文含通关后内容
 
 ## 概述

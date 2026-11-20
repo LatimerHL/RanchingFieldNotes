@@ -1,8 +1,8 @@
 # 彩色鸡仔儿（Painted Chick）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：painted_chickadoo（t.painted_chickadoo / m.intro.painted_chickadoo / m.desc.painted_chickadoo / m.how_to_use.painted_chickadoo）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 彩色鸡仔儿（Painted Chick）

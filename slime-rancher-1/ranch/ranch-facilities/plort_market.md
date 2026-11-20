@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：plort_market
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 喂食史莱姆。收集结晶。换钱。
@@ -23,7 +23,7 @@
 >     Plort market values fluctuate and some of the more savvy ranchers will hoard certain plorts for days when sale     prices are high, especially rare plorts.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **位置**：牧场小屋旁；主要的新币来源
 

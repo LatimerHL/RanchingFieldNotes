@@ -1,7 +1,7 @@
 # 制作人员表（Credits）
 
 > 来源：游戏内制作人员表（Credits 界面）
-> 版本：Slime Rancher 1（2014-2018，Monomi Park）
+> 适用：一代（2014-2018，Monomi Park）
 > 职位名称以简中为准，人名保留原文
 
 > ⚠️ **轻微剧透警告**：含片尾叙事与献词，介意剧透请谨慎阅读。
@@ -128,11 +128,7 @@ Keith Shetler
 
 ## 版权信息
 
-> Slime Rancher 由 Monomi Park 开发。Copyright © 2014-2018 Monomi Park, LLC
-
-**原文参考：**
-
-> Slime Rancher is developed by Monomi Park. Copyright © 2014-2018 Monomi Park, LLC
+片尾版权信息摘要：本作由 Monomi Park 开发。Copyright © 2014-2018 Monomi Park, LLC
 
 ---
 

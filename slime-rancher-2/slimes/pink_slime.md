@@ -1,8 +1,8 @@
 # 粉红史莱姆（Pink Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：pink_slime（t.pink_slime / m.intro.pink_slime / m.slimeology.pink_slime / m.risks.pink_slime / m.plortonomics.pink_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 粉红史莱姆（Pink Slime）

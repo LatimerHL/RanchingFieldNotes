@@ -1,4 +1,4 @@
-# Slime Rancher: Galactic Bundle - 银河包
+# 银河包（Galactic Bundle）
 
 **该DLC Steam独占**
 
@@ -16,11 +16,11 @@
 - Steam: 免费
 
 ## 描述
-来一个Steam专属的Slime Rancher银河包吧！
+银河包为 Steam 专属附加内容。
 
 用红宝石调色包装点你的牧场还有真空枪；使用银河套装，和你的史莱姆们一起探索银河最后的边境吧！
 
-Slime Rancher® 银河包中包含：
+银河包包含以下内容：
 - 红宝石调色包
 - 银河风格皮肤
 - 哔哔机器人史莱姆玩具
@@ -31,7 +31,7 @@ https://store.steampowered.com/app/982310/Slime_Rancher_Galactic_Bundle/?curator
 
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom 无独占包独立条目，内容与商店页核对一致）
+> 来源：Fandom 社区 Wiki（无此独占包的独立条目，内容与商店页核对一致）
 
 - 游戏内获取：安装后进入牧场小屋收取星际邮件，解锁对应**时尚舱（Fashion Pod）**与玩具（哔哔机器人史莱姆玩具）
 - 调色包为**红宝石调色包**；与海盗包（绿宝石）、英雄包（蓝宝石）并列为三大平台独占调色包

@@ -1,8 +1,8 @@
 # 量子无人机（Quantum Drones）
 
-> 来源：游戏内《史莱姆百科》史莱姆科技选项卡（本地化 Pedia/PediaPage 表）+ fandom（Drone (Slime Rancher 2) 页面，扩充）
+> 来源：游戏内《史莱姆百科》史莱姆科技选项卡（本地化 Pedia/PediaPage 表）+ fandom（Drone (二代) 页面，扩充）
 > 条目ID：t.quantum_drones / m.intro.quantum_drone / m.pedia.* 分节
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 量子无人机（Quantum Drones）
@@ -116,7 +116,7 @@
 
 **造型**：与一代无人机相同的小蜜蜂形（bee drones）；区别于 2 代调研无人机的萤火虫形（见 `../gigi/research-drones.md`）
 
-**行为**（fandom Drone (Slime Rancher 2) 页）：牧场内工作逻辑与一代无人机类似；**在野外（勘探模式）会呈现为虚影**，工作表现为在环境周围游荡（fandom 原文 “flicker through obstacles”）；游戏机制层面是**凭空生成“量子”复制材料**（不收集地面实物、不影响大世界），存入量子云。
+**行为**（fandom Drone (二代) 页）：牧场内工作逻辑与一代无人机类似；**在野外（勘探模式）会呈现为虚影**，工作表现为在环境周围游荡（fandom 原文 “flicker through obstacles”）；游戏机制层面是**凭空生成“量子”复制材料**（不收集地面实物、不影响大世界），存入量子云。
 
 ### 获取与设计图解锁
 

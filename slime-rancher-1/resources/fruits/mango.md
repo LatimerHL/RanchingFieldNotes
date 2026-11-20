@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：mango
 > 类别：水果
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 猛烈的甜过后，是薄荷的清新回味。
@@ -41,7 +41,7 @@
 > Deposit a mint mango into a garden's depositor and you'll grow a large mint mango tree of your     very own.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅被苔岛深处（与方方莓同区域）
 

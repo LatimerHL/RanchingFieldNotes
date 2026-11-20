@@ -1,8 +1,8 @@
 # 蜜饯母鸡（Candied Hen）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：candied_hen（t.candied_hen / m.intro.candied_hen / m.desc.candied_hen / m.how_to_use.candied_hen）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 蜜饯母鸡（Candied Hen）

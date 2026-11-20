@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：echo_notes
 > 类别：特殊
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 让你的世界充满音乐。
@@ -75,7 +75,7 @@
 - 芯片音乐（Chiptune）
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **引入版本**：2018 年嘟嘟乐园（Wiggly Wonderland，更新 1.3.2）
 

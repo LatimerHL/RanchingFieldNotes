@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 世界选项卡
 > 条目ID：moss
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 如同石缝中绽放的小花，这片翠绿之地包含着无数美好与希望。
@@ -23,7 +23,7 @@
 >     The slimes primarily found within the Moss Blanket find its jungle-like conditions perfect: tabby and boom slimes     hunt their prey through the thickets with abandon, and honey slimes lounge in the flower beds, eating the great     abundance of fruit that can be found at every turn.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **解锁方式**：需 1 把史莱姆钥匙
 

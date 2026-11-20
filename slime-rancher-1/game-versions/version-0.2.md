@@ -1,4 +1,4 @@
-# 版本 0.2.x 更新日志（Slime Rancher 1）
+# 版本 0.2.x 更新日志（一代）
 
 > 来源：fandom「Game Versions/Version 0.2.x」（原官方公告 forums.monomipark.com，论坛已关闭，此为 fandom 存档）；2026-08-18 拉取并本地化
 > 术语：以 terminology.md 官中为准；存疑处已标注 ⚠️

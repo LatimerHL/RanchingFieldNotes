@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：crystal_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 透明晶亮，危险锋芒。
@@ -47,7 +47,7 @@
 > Though the crystals produced by a crystal slime are highly unstable, a crystal plort, 	like all plorts, is far more pure and can be used by slime scientists to engineer a variety of metals that are 	completely transparent. This innovation has led to metropolitan areas on Earth completely transforming visually, 	allowing more light to reach the streets and the space as a whole a chance to 'breathe.' Architects often describe 	these transparent metals as 'so totally cooler than normal, boring metals.'
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅靛蓝采石场的水晶火山与灰烬岛两个特定位置
 

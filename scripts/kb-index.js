@@ -51,12 +51,12 @@ const lines = [
   "",
   "<!-- 由 scripts/kb-index.js 生成。 -->",
   "",
-  "[通用资料](#通用资料) · [一代](#slime-rancher-1) · [二代](#slime-rancher-2)",
+  "[通用资料](#通用资料) · [一代](#1代) · [二代](#2代)",
   "",
 ];
 
 addDirectory(lines, "general", "## 通用资料");
-addDirectory(lines, "slime-rancher-1", "## Slime Rancher 1");
-addDirectory(lines, "slime-rancher-2", "## Slime Rancher 2");
+addDirectory(lines, "slime-rancher-1", "## 1代");
+addDirectory(lines, "slime-rancher-2", "## 2代");
 
 writeFileSync(join(root, "_INDEX.md"), lines.join("\n"), "utf8");

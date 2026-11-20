@@ -1,7 +1,7 @@
 # 制作人员表（Credits）
 
 > 来源：游戏内制作人员表（Credits 界面，由牧场主提供）
-> 版本：Slime Rancher 2（Monomi Park + Lionbridge Games）
+> 适用：二代（Monomi Park + Lionbridge Games）
 > 职位名称以简中为准，人名保留原文
 
 # Monomi Park

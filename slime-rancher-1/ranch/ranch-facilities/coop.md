@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：coop
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 把鸡关好，以防它们造反。
@@ -49,7 +49,7 @@
 > A special upgrade designed by Mochi Miles that doubles the number of chickens you can keep and moves elders out.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **可用地块**：牧场、奥格登的别墅、莫奇庄园、维克多的工作间
 

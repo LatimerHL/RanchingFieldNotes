@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：spicy_tofu
 > 类别：食物
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 吃这个总也吃不饱。
@@ -41,7 +41,7 @@
 > Spicy tofu can't be planted in a garden, only fed to slimes.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **获取方式**：奥格登的别墅个人交易所，3 个库卡多巴果兑换 1 块辣豆腐
 

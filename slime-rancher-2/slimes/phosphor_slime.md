@@ -1,8 +1,8 @@
 # 荧光史莱姆（Phosphor Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：phosphor_slime（t.phosphor_slime / m.intro.phosphor_slime / m.slimeology.phosphor_slime / m.risks.phosphor_slime / m.plortonomics.phosphor_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 荧光史莱姆（Phosphor Slime）

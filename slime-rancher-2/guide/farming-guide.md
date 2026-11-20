@@ -1,6 +1,6 @@
-# 史莱姆牧场2 养殖攻略（Slime Rancher 2 Farming Guide）
+# 二代养殖攻略
 
-> 版本：Slime Rancher 2（当前内容基于知识库词条与 fandom，随游戏更新补充）
+> 适用：二代（当前内容基于知识库词条与 fandom，随游戏更新补充）
 
 ## 基础养殖攻略
 

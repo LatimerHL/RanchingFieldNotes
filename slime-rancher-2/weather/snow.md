@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Weather 页面，效果）
 > 条目ID：snow（t.snow / m.intro.snow / m.desc.snow）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 雪（Snow）

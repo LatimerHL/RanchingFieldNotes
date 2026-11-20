@@ -1,8 +1,8 @@
 # 琪琪交易任务（Exchange Station / 兑换站）
 
 > 来源：游戏内本地化 CommStation 表（GigiRewardsKiosk* 对话，官中+原文）+ 游戏机制
-> 版本：Slime Rancher 2
-> ⚠️ **剧透警告（Spoiler Alert）**：本页涉及《史莱姆牧场 2》主线剧情（琪琪与棱镜核心的故事线），可能包含剧透内容。
+> 适用：二代
+> ⚠️ **剧透警告（Spoiler Alert）**：本页涉及二代主线剧情（琪琪与棱镜核心的故事线），可能包含剧透内容。
 
 ## 概况
 

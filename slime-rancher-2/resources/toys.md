@@ -1,7 +1,7 @@
 # 史莱姆玩具（Slime Toys）
 
-> 来源：游戏内《史莱姆百科》（本地化 Pedia 表，名称/描述官中）+ fandom（Slime Toys (Slime Rancher 2) 页面，价格/获取）
-> 版本：Slime Rancher 2
+> 来源：游戏内《史莱姆百科》（本地化 Pedia 表，名称/描述官中）+ fandom（Slime Toys (二代) 页面，价格/获取）
+> 适用：二代
 
 ## 概况
 

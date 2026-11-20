@@ -1,8 +1,8 @@
 # 超能史莱姆（Hyper Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：hyper_slime（t.hyper_slime / m.intro.hyper_slime / m.slimeology.hyper_slime / m.risks.hyper_slime / m.plortonomics.hyper_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 超能史莱姆（Hyper Slime）

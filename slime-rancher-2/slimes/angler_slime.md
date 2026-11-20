@@ -1,8 +1,8 @@
 # 安康史莱姆（Angler Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：angler_slime（t.angler_slime / m.intro.angler_slime / m.slimeology.angler_slime / m.risks.angler_slime / m.plortonomics.angler_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 安康史莱姆（Angler Slime）

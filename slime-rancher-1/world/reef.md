@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 世界选项卡
 > 条目ID：reef
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 曾被珊瑚覆盖的海床，如今已暴露在金黄的阳光之下。
@@ -23,7 +23,7 @@
 >     The Dry Reef is primarily home to pink, tabby, and rock slimes though phosphor slimes will also come out of     hiding when the sun sets. The Dry Reef's climate doesn't make for an abundance of any particular resource, but plenty     of carrots, pogofruit, and hen hens are everywhere, as well as some less common resources if you know where to look.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **解锁方式**：游戏初始区域，可从牧场直接进入
 

@@ -1,8 +1,8 @@
 # 暗影史莱姆（Shadow Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：shadow_slime（t.shadow_slime / m.intro.shadow_slime / m.slimeology.shadow_slime / m.risks.shadow_slime / m.plortonomics.shadow_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 暗影史莱姆（Shadow Slime）

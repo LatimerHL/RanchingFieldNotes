@@ -1,7 +1,7 @@
 # 图形（Graphics）
 
 > 来源：游戏内本地化 Options 表（Options_en/zh + Shared Data，设置项名称/描述官中）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 > 提示：整体画面质量（quality）设置会联动更改下方多数图形选项；帧数限制（framerate limit）默认不限制，可按显示器刷新率设置。
 

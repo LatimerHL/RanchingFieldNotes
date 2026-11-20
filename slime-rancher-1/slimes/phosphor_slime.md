@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：phosphor_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 温柔闪烁的星光使者
@@ -47,7 +47,7 @@
 > The luminescent compound found within phosphor plorts can produce light for over 100     years, making it an incredibly eco-friendly form of illumination on Earth. Cities across the globe are slowly     switching over to phosphor lights, saving trillions of gigawatts of energy daily. Plus if you rub the stuff in your     hair, it glows and looks really cool.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：靛蓝采石场、干涸岩礁、被苔岛、古代遗迹、玻璃荒漠（**仅夜间出现**，白天不生成）
 

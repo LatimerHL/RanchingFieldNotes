@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：docks
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 深深的大海蓝如天，无数史莱姆笑得甜。
@@ -23,7 +23,7 @@
 >     It also houses a natural wellspring, allowing you to fill your tank with unlimited fresh water, or for a few puddle     slimes that prefer a natural place to soak.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **价格**：5,000 新币
 

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：tangle_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 这种史莱姆会…哈…哈啾！
@@ -59,7 +59,7 @@
 > 	It's speculated that the unusually high nutrient count found within tangle plorts that now grow Earth's vegetables 	results from the tangle slime's incredible appetite for chickens, but that's super gruesome so let's just ignore 	that.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：玻璃荒漠（恢复绿洲后，或巨型藤蔓史莱姆爆炸后）
 

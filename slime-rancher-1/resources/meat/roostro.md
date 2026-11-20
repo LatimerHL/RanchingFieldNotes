@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：roostro
 > 类别：肉类
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 这家伙好像很有点大男子（大公鸡？）主义呢。
@@ -45,7 +45,7 @@
 > All hens in close proximity to roostros will periodically lay eggs that produce chickadoos.     However, keeping too many hens or roostros in close proximity makes them anxious and egg production will come to a     halt. Savvy ranchers with an understanding of the complex nature of chicken romance always keep their coops from     exceeding 12 grown chickens.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：干涸岩礁、被苔岛、靛蓝采石场、古代遗迹、玻璃荒漠、荒蛮群岛
 

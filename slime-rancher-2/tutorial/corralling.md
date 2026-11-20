@@ -2,7 +2,7 @@
 
 > 来源：游戏内教程（本地化文本 Pedia / PediaPage 表）
 > 条目ID：corralling（t.corralling / m.intro.corralling / m.instructions.corralling）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 圈养史莱姆（Corralling Slimes）

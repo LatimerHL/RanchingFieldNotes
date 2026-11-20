@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：elder_roostro
 > 类别：肉类
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 雄风已减不如当年，真凄惨。
@@ -41,7 +41,7 @@
 > An elder roostro can no longer sire chickadoos and serves no other purpose than becoming a     slightly tough chicken dinner.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现方式**：公鸡与母鸡繁育鸡仔后低几率退化而成
 

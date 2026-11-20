@@ -1,6 +1,6 @@
-# Slime Rancher 2 DLC 总览
+# DLC 总览
 
-> 版本：Slime Rancher 2
+> 适用：二代
 > 整理：Steam 商店 API + fandom wiki + epicdb（2026-08 核对）
 
 ## 注意

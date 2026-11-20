@@ -1,8 +1,8 @@
 # 深层盐水（Deep Brine）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：deep_brine_craft（t.deep_brine_craft / m.intro.deep_brine_craft / m.desc.deep_brine_craft / m.how_to_use.deep_brine_craft）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 深层盐水（Deep Brine）

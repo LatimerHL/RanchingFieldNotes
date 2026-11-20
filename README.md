@@ -1,9 +1,9 @@
-# 牧场笔记 · 史莱姆牧场中文资料库
+# 牧场笔记 · 中文资料库
 
 史墓的非官方中文资料库。
 
-- [一代资料](_INDEX.md#slime-rancher-1)
-- [二代资料](_INDEX.md#slime-rancher-2)
+- [一代资料](_INDEX.md#1代)
+- [二代资料](_INDEX.md#2代)
 - [全系列术语](general/terminology.md)
 - [完整索引](_INDEX.md)
 

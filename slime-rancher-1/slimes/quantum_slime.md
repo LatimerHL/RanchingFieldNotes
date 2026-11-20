@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆选项卡
 > 条目ID：quantum_slime
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 深不可测的史莱姆。
@@ -47,7 +47,7 @@
 > Quantum plorts are believed by many to hold the secret to infinite resources.  Given     the quantum slime's ability to change reality, it's theorized that unlocking the potential of quantum plorts could 	allow for a technology that converges the realities of other entities into our reality and- well, basically we're 	talking about cloning stuff. Infinite energy, chickens, whatever. Probably no harmful side effects to this at all.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：古代遗迹、玻璃荒漠（旋风喷泉附近）
 

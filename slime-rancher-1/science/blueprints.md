@@ -1,8 +1,8 @@
 # 设计图（Blueprints）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆科技选项卡 + Slime Rancher Wiki（fandom 各装置页 Acquisition）
+> 来源：游戏内《史莱姆百科》- 史莱姆科技选项卡 + Fandom 社区 Wiki（各装置页 Acquisition）
 > 条目ID：blueprints
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 所有伟大科学家都是按图索骥……至少大部分是这样。
@@ -24,7 +24,7 @@
 
 ## 设计图获取途径总表（fandom 核对）
 
-> 来源：Slime Rancher Wiki（fandom）各装置页面的 Acquisition 章节
+> 来源：Fandom 社区 Wiki 各装置页面的 Acquisition 章节
 
 ### 一、建造者商店购买（实验室解锁后）
 

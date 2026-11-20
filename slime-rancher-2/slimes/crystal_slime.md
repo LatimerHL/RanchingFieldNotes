@@ -1,8 +1,8 @@
 # 水晶史莱姆（Crystal Slime）
 
-> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》- 史莱姆选项卡（本地化文本 Pedia / PediaPage / Actor 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：crystal_slime（t.crystal_slime / m.intro.crystal_slime / m.slimeology.crystal_slime / m.risks.crystal_slime / m.plortonomics.crystal_slime）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 水晶史莱姆（Crystal Slime）

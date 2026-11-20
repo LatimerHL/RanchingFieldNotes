@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆科技选项卡
 > 条目ID：refinery
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 建造神奇装置的第一步。
@@ -23,6 +23,6 @@
 >   Be sure to choose what to deposit into the Refinery wisely: any resources you deposit cannot be removed from the   refinery, but instead used only for building gadgets.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **机制补充**：精炼炉是史莱姆科技的资源仓库（位于实验室），存入的结晶与资源不可取回；所有装置制造材料均从精炼炉扣除。fandom 无独立页面（相关内容在「The Lab」与各装置页面）。

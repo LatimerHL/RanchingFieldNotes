@@ -1,8 +1,8 @@
 # 胡萝卜（Carrot）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：carrot（t.carrot / m.intro.carrot / m.desc.carrot / m.how_to_use.carrot）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 胡萝卜（Carrot）

@@ -1,8 +1,8 @@
 # 闪电微粒（Lightning Mote）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：lightning_mote（t.lightning_mote / m.intro.lightning_mote / m.desc.lightning_mote / m.how_to_use.lightning_mote）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 闪电微粒（Lightning Mote）

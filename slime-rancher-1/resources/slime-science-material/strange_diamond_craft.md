@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：strange_diamond_craft
 > 类别：史莱姆科技材料
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 很奇异，而且价值更高哦。
@@ -45,7 +45,7 @@
 > Deposit strange diamonds into the Lab's Refinery where they can then be used for fabricating     Slime Science gadgets.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **获取方式**：钻机采集，极少从史莱姆科技箱获得；也可在交易所偶遇 1000 新币交易
 

@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 史莱姆科技选项卡
 > 条目ID：extractors
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 大自然中蕴藏着各种宝藏。
@@ -121,7 +121,7 @@
 > A secret apiary manufactured by 7Zee that offers the highest chance for rare resources. Lasts 12 cycles.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 ### 制造材料与周期（fandom）
 

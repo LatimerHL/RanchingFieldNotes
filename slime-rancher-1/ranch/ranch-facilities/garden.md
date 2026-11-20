@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 牧场选项卡
 > 条目ID：garden
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 世界上最好吃的东西，就是自家院子里种出来的啦！
@@ -56,7 +56,7 @@
 > A special upgrade designed by Ogden Ortiz that tweaks the garden's replicator to     produce a bigger harvest than normally possible.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **可用地块**：牧场、奥格登的别墅、莫奇庄园、维克多的工作间
 

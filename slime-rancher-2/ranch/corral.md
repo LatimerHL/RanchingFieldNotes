@@ -1,8 +1,8 @@
 # 牧栏（Corral）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Corral (Slime Rancher 2) 页面，价格）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Corral (二代) 页面，价格）
 > 条目ID：corral（t.corral / m.intro.corral / m.desc.corral）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 牧栏（Corral）

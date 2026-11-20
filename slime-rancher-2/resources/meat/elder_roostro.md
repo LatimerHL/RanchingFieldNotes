@@ -1,8 +1,8 @@
 # 老公鸡（Elder Roostro）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：elder_roostro（t.elder_roostro / m.intro.elder_roostro / m.desc.elder_roostro / m.how_to_use.elder_roostro）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 老公鸡（Elder Roostro）

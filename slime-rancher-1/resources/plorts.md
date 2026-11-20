@@ -1,7 +1,7 @@
 # 结晶（Plorts）与结晶市场价格表
 
-> 来源：Slime Rancher Wiki（fandom：Plorts / Plort Market (Slime Rancher)）
-> 版本：Slime Rancher 1（冒险/休闲模式）
+> 来源：Fandom 社区 Wiki（Plorts / 一代结晶市场）
+> 适用：一代（冒险/休闲模式）
 
 ## 结晶概述
 
@@ -84,7 +84,7 @@
 
 ## 资料对照：中文资料手册 v1.1.0（解包数据）
 
-> 来源：《史莱姆牧场中文资料手册 v1.1.0》（RadotRomer，解包数据，信息截至 v1.4.4），与 fandom 数据略有出入，此处并列供参考
+> 来源：《一代中文资料手册 v1.1.0》（RadotRomer，解包数据，信息截至 v1.4.4），与 fandom 数据略有出入，此处并列供参考
 
 | 结晶 | 手册默认价 | 手册波动范围 | fandom 默认 | fandom 区间 |
 |------|:----:|:----:|:----:|:----:|

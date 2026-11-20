@@ -1,8 +1,8 @@
 # 丝滑细沙（Silky Sand）
 
-> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ fandom（Slime Rancher 2 Wiki）
+> 来源：游戏内《史莱姆百科》（本地化文本 Pedia / PediaPage 表）+ Fandom 社区 Wiki（二代）
 > 条目ID：silky_sand_craft（t.silky_sand_craft / m.intro.silky_sand_craft / m.desc.silky_sand_craft / m.how_to_use.silky_sand_craft）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 丝滑细沙（Silky Sand）

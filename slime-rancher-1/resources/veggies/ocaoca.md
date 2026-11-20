@@ -3,7 +3,7 @@
 > 来源：游戏内《史莱姆百科》- 资源选项卡
 > 条目ID：ocaoca
 > 类别：蔬菜
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 一坨五颜六色的土豆
@@ -41,7 +41,7 @@
 > Deposit an oca oca into a garden's depositor and you'll have a large oca oca crop of your very own.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **出现地点**：仅靛蓝采石场
 

@@ -2,7 +2,7 @@
 
 > 来源：游戏内教程（本地化文本 Pedia / PediaPage 表）
 > 条目ID：refinery（t.refinery / m.intro.refinery / m.instructions.refinery）
-> 版本：Slime Rancher 2
+> 适用：二代
 
 ## 名称
 精炼炉（Refinery）

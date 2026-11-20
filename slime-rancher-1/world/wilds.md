@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 世界选项卡
 > 条目ID：wilds
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 史莱姆家族的远古宗亲的居住地。
@@ -22,7 +22,7 @@
 >     Ogden Ortiz once explored The Wilds and discovered the rare kookadoba fruit growing within. Since then he has     contracted out the dangerous task of collecting these fruits to anyone willing to take on the risk.
 ## 补充资料（fandom）
 
-> 来源：Slime Rancher Wiki（fandom），补充百科原文之外的机制与数据
+> 来源：Fandom 社区 Wiki，补充百科原文之外的机制与数据
 
 **解锁方式**：需已解锁被苔岛并购买丰茂原野扩张，再与奥格登在交易所完成交易；通过奥格登的别墅进入
 

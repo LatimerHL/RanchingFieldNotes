@@ -2,7 +2,7 @@
 
 > 来源：游戏内《史莱姆百科》- 世界选项卡
 > 条目ID：keys
-> 版本：Slime Rancher 1
+> 适用：一代
 
 ## 简介
 打开古代锁的古代钥匙。
@@ -19,7 +19,7 @@
 > Slime Keys are large, stone keys that are used to open the ancient slime gates across the range.     These gates often lead to new areas to explore or create shortcuts to familiar ones.
 ## 补充资料（fandom + mobile-support 官方问答）
 
-> 来源：Slime Rancher Wiki（fandom）+ 官方移动端支持页 + slimes/gordo_slime.md
+> 来源：Fandom 社区 Wiki + 官方移动端支持页 + slimes/gordo_slime.md
 
 **获取方式**（2026-08-18 补全）：①击破特定野生巨型史莱姆（Gordo）掉落 1 把——**仅以下 11 个野生巨型掉钥匙**：粉红巨型 ×2（#1、#2）、荧光巨型、蜂蜜巨型、猎猫巨型、水晶巨型、辐射巨型、炸弹巨型、量子巨型、旋风巨型、马赛克巨型；②真空枪升级「备用史莱姆钥匙」（Slime Key），售价 25,000 新币（fandom）
 
