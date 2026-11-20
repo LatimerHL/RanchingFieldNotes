@@ -6,11 +6,11 @@
 
 ## 通用资料
 
-- [史莱姆牧场 专有名词表（全系列 Terminology）](general/terminology.md)
+- [专有名词表（全系列 Terminology）](general/terminology.md)
 - [冷知识档案（Trivia \& Cut Content）](general/trivia.md)
-- [史莱姆牧场 世界观总览（World Lore）](general/world-lore.md)
+- [世界观总览（World Lore）](general/world-lore.md)
 
-## Slime Rancher 1
+## 1代
 
 - [成就（Achievements）](slime-rancher-1/achievements.md)
 - [制作人员表（Credits）](slime-rancher-1/credits.md)
@@ -26,14 +26,14 @@
 
 ### dlc
 
-- [Slime Rancher: Galactic Bundle - 银河包](slime-rancher-1/dlc/galactic-bundle.md)
-- [Slime Rancher: Heroic Bundle - 英雄包](slime-rancher-1/dlc/heroic-bundle.md)
+- [Galactic Bundle - 银河包](slime-rancher-1/dlc/galactic-bundle.md)
+- [Heroic Bundle - 英雄包](slime-rancher-1/dlc/heroic-bundle.md)
 - [DLC 说明](slime-rancher-1/dlc/notes.md)
-- [Slime Rancher: Original Soundtrack - 原声音乐集](slime-rancher-1/dlc/ost.md)
-- [Slime Rancher: Original Soundtrack II + The Casey Sessions - 原声碟II＋凯西选段](slime-rancher-1/dlc/ost2.md)
-- [Slime Rancher: Piratey Bundle - 海盗包](slime-rancher-1/dlc/piratey-bundle.md)
-- [Slime Rancher: Secret Style Pack - 神秘形象包](slime-rancher-1/dlc/secret-styles.md)
-- [Slime Rancher: VR Playground](slime-rancher-1/dlc/vr-playground.md)
+- [Original Soundtrack - 原声音乐集](slime-rancher-1/dlc/ost.md)
+- [Original Soundtrack II + The Casey Sessions - 原声碟II＋凯西选段](slime-rancher-1/dlc/ost2.md)
+- [Piratey Bundle - 海盗包](slime-rancher-1/dlc/piratey-bundle.md)
+- [Secret Style Pack - 神秘形象包](slime-rancher-1/dlc/secret-styles.md)
+- [VR Playground](slime-rancher-1/dlc/vr-playground.md)
 
 ### exchange
 
@@ -46,20 +46,20 @@
 
 ### game-versions
 
-- [版本 0.2.x 更新日志（Slime Rancher 1）](slime-rancher-1/game-versions/version-0.2.md)
-- [版本 0.3.x 更新日志（Slime Rancher 1）](slime-rancher-1/game-versions/version-0.3.md)
-- [版本 0.4.x 更新日志（Slime Rancher 1）](slime-rancher-1/game-versions/version-0.4.md)
-- [版本 0.5.x 更新日志（Slime Rancher 1）](slime-rancher-1/game-versions/version-0.5.md)
-- [版本 0.6.x 更新日志（Slime Rancher 1）](slime-rancher-1/game-versions/version-0.6.md)
-- [版本 1.0.x 更新日志（Slime Rancher 1）](slime-rancher-1/game-versions/version-1.0.md)
-- [版本 1.1.x 更新日志（Slime Rancher 1）](slime-rancher-1/game-versions/version-1.1.md)
-- [版本 1.2.x 更新日志（Slime Rancher 1）](slime-rancher-1/game-versions/version-1.2.md)
-- [版本 1.3.x 更新日志（Slime Rancher 1）](slime-rancher-1/game-versions/version-1.3.md)
-- [版本 1.4.x 更新日志（Slime Rancher 1）](slime-rancher-1/game-versions/version-1.4.md)
+- [版本 0.2.x 更新日志（1代）](slime-rancher-1/game-versions/version-0.2.md)
+- [版本 0.3.x 更新日志（1代）](slime-rancher-1/game-versions/version-0.3.md)
+- [版本 0.4.x 更新日志（1代）](slime-rancher-1/game-versions/version-0.4.md)
+- [版本 0.5.x 更新日志（1代）](slime-rancher-1/game-versions/version-0.5.md)
+- [版本 0.6.x 更新日志（1代）](slime-rancher-1/game-versions/version-0.6.md)
+- [版本 1.0.x 更新日志（1代）](slime-rancher-1/game-versions/version-1.0.md)
+- [版本 1.1.x 更新日志（1代）](slime-rancher-1/game-versions/version-1.1.md)
+- [版本 1.2.x 更新日志（1代）](slime-rancher-1/game-versions/version-1.2.md)
+- [版本 1.3.x 更新日志（1代）](slime-rancher-1/game-versions/version-1.3.md)
+- [版本 1.4.x 更新日志（1代）](slime-rancher-1/game-versions/version-1.4.md)
 
 ### guide
 
-- [史莱姆牧场养殖攻略（Slime Rancher Farming Guide）](slime-rancher-1/guide/farming-guide.md)
+- [一代养殖攻略](slime-rancher-1/guide/farming-guide.md)
 - [一代开图攻略（区域解锁·钥匙·解谜）](slime-rancher-1/guide/map-unlock-guide.md)
 
 ### mail
@@ -246,7 +246,7 @@
 - [维克多的工作间（Viktor's Workshop）](slime-rancher-1/world/viktor_lab.md)
 - [荒蛮群岛（The Wilds）](slime-rancher-1/world/wilds.md)
 
-## Slime Rancher 2
+## 2代
 
 - [成就（Achievements）](slime-rancher-2/achievements.md)
 - [启动界面与警告（Boot Up）](slime-rancher-2/bootup.md)
@@ -267,22 +267,22 @@
 
 ### dlc
 
-- [Slime Rancher 2 DLC 总览](slime-rancher-2/dlc/notes.md)
-- [Slime Rancher 2: Original Soundtrack - 游戏原声带（Vol. 1）](slime-rancher-2/dlc/ost.md)
-- [Slime Rancher 2: Original Soundtrack, Vol. 2 - 原声大碟 Vol. 2](slime-rancher-2/dlc/ost2.md)
+- [DLC 总览](slime-rancher-2/dlc/notes.md)
+- [SOriginal Soundtrack - 游戏原声带（Vol. 1）](slime-rancher-2/dlc/ost.md)
+- [Original Soundtrack, Vol. 2 - 原声大碟 Vol. 2](slime-rancher-2/dlc/ost2.md)
 
 ### game-versions
 
-- [版本 0.1.x 更新日志（Slime Rancher 2）](slime-rancher-2/game-versions/version-0.1.md)
-- [版本 0.2.x 更新日志（Slime Rancher 2）](slime-rancher-2/game-versions/version-0.2.md)
-- [版本 0.3.x 更新日志（Slime Rancher 2）](slime-rancher-2/game-versions/version-0.3.md)
-- [版本 0.4.x 更新日志（Slime Rancher 2）](slime-rancher-2/game-versions/version-0.4.md)
-- [版本 0.5.x 更新日志（Slime Rancher 2 · 抢先体验）](slime-rancher-2/game-versions/version-0.5.md)
-- [版本 0.6.x 更新日志（Slime Rancher 2 · 抢先体验）](slime-rancher-2/game-versions/version-0.6.md)
-- [版本 1.0.x 更新日志（Slime Rancher 2 · 1.0 正式版）](slime-rancher-2/game-versions/version-1.0.md)
-- [版本 1.1.x 更新日志（Slime Rancher 2 · 正式版）](slime-rancher-2/game-versions/version-1.1.md)
-- [版本 1.2.x 更新日志（Slime Rancher 2 · 抢先体验）](slime-rancher-2/game-versions/version-1.2.md)
-- [版本 1.3.x 更新日志（Slime Rancher 2）](slime-rancher-2/game-versions/version-1.3.md)
+- [版本 0.1.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.1.md)
+- [版本 0.2.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.2.md)
+- [版本 0.3.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.3.md)
+- [版本 0.4.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.4.md)
+- [版本 0.5.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.5.md)
+- [版本 0.6.x 更新日志（2代）](slime-rancher-2/game-versions/version-0.6.md)
+- [版本 1.0.x 更新日志（2代）](slime-rancher-2/game-versions/version-1.0.md)
+- [版本 1.1.x 更新日志（2代）](slime-rancher-2/game-versions/version-1.1.md)
+- [版本 1.2.x 更新日志（2代）](slime-rancher-2/game-versions/version-1.2.md)
+- [版本 1.3.x 更新日志（2代）](slime-rancher-2/game-versions/version-1.3.md)
 
 ### gigi
 
@@ -294,7 +294,7 @@
 ### guide
 
 - [古代传送器（Ancient Teleporter）](slime-rancher-2/guide/ancient-teleporter.md)
-- [史莱姆牧场2 养殖攻略（Slime Rancher 2 Farming Guide）](slime-rancher-2/guide/farming-guide.md)
+- [二代养殖攻略](slime-rancher-2/guide/farming-guide.md)
 
 ### options
 
